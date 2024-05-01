@@ -59,7 +59,7 @@ dimwishlist:item=243425374&perks=4104185692,2077819806
 
 // Forbearance ()
 //notes: Just get the craftable version.
-dimwishlist:item=568611921&perks=
+dimwishlist:item=-568611921&perks=
 
 
 // The Mountaintop (god-pve,pve)
@@ -114,7 +114,7 @@ dimwishlist:item=568611923&perks=2396489472,3194351027
 
 // Succession ()
 //notes: Auto Dismantle, just get the craftable version.
-dimwishlist:item=570866107&perks=
+dimwishlist:item=-570866107&perks=
 
 
 // The Recluse (pve,god-pve)
@@ -259,7 +259,7 @@ dimwishlist:item=2372514509&perks=776531651,4104185692
 
 // Forbearance ()
 //notes: Just get the craftable version.
-dimwishlist:item=2480074702&perks=
+dimwishlist:item=-2480074702&perks=
 
 
 // Midnight Coup (god-pve,pve)
@@ -354,7 +354,7 @@ dimwishlist:item=3098328572&perks=4071163871,2109543898
 
 // Succession ()
 //notes: Auto Dismantle, just get the craftable version.
-dimwishlist:item=3612338554&perks=
+dimwishlist:item=-3612338554&perks=
 
 
 // Luna's Howl (god-pve,pve)
