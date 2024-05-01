@@ -1,0 +1,133 @@
+title:BAL Wishlist
+description:This is the Beyond All Legend Approved Wishlist
+
+// Hung Jury SR4 (god-pve,pve)
+//notes: Hung jury is a pick-your-own-adventure weapon as you can pair Kinetic Tremors with pretty much anything. I would recommend One For All but Explosive and FireFly Work too. tags:god-pve,pve
+dimwishlist:item=205225492&perks=1840239774,106909392,3891536761,4049631843
+dimwishlist:item=205225492&perks=1840239774,106909392,3891536761,3824105627
+dimwishlist:item=205225492&perks=1840239774,106909392,3891536761,3038247973
+
+
+// Hung Jury SR4 (pve)
+//notes: Hung jury is a pick-your-own-adventure weapon as you can pair Kinetic Tremors with pretty much anything. I would recommend One For All but Explosive and FireFly Work too. tags:pve
+dimwishlist:item=205225492&perks=3891536761,4049631843
+dimwishlist:item=205225492&perks=3891536761,3824105627
+dimwishlist:item=205225492&perks=3891536761,3038247973
+
+
+// The Mountaintop (god-pve,pve)
+//notes: This is a perfect roll for if you want to treat your mountaintop as a primary weapon where you shoot into a group of ads for a kill to proc ambitious and also proc One For All for damage boost. tags:god-pve,pve
+dimwishlist:item=568611922&perks=981914802,3301904089,2010801679,4049631843
+dimwishlist:item=568611922&perks=981914802,3492396210,2010801679,4049631843
+
+
+// The Mountaintop (god-pve,pve)
+//notes: This is a perfect roll for dealing a huge chunk of damage to champs and other high-health enemies. You will want to build of recombination and by the time you have it ready auto-loading should have it loaded tags:god-pve,pve
+dimwishlist:item=568611922&perks=981914802,3301904089,3300816228,469285294
+dimwishlist:item=568611922&perks=981914802,3492396210,3300816228,469285294
+
+
+// The Mountaintop (pve)
+//notes: Roll for using Mountain Top as more of an ad-clear weapon where you proc ambitious for 2 rounds in the mag and One For All for damage. Aim to get hard launch and Spike/Implosion for perfect roll. tags:pve
+dimwishlist:item=568611922&perks=2010801679,4049631843
+
+
+// The Mountaintop (pve)
+//notes: Roll for taking a chunk out of Champs and other high-health enemies. Build up recombination then chunk them down while switching back to primary or heavy, auto-loading will have it ready for you the next time you need it. tags:pve
+dimwishlist:item=568611922&perks=3300816228,469285294
+
+
+// Succession ()
+//notes: Auto Dismantle, just get the craftable version.
+dimwishlist:item=570866107&perks=
+
+
+// Hung Jury SR4 (god-pve,pve)
+//notes: Hung jury is a pick-your-own-adventure weapon as you can pair Kinetic Tremors with pretty much anything. I would recommend One For All but Explosive and FireFly Work too. tags:god-pve,pve
+dimwishlist:item=1453235079&perks=1840239774,106909392,3891536761,4049631843
+dimwishlist:item=1453235079&perks=1840239774,106909392,3891536761,3824105627
+dimwishlist:item=1453235079&perks=1840239774,106909392,3891536761,3038247973
+
+
+// Hung Jury SR4 (pve)
+//notes: Hung jury is a pick-your-own-adventure weapon as you can pair Kinetic Tremors with pretty much anything. I would recommend One For All but Explosive and FireFly Work too. tags:pve
+dimwishlist:item=1453235079&perks=3891536761,3038247973
+dimwishlist:item=1453235079&perks=3891536761,3824105627
+dimwishlist:item=1453235079&perks=3891536761,4049631843
+
+
+// Blast Furnace (god-pve,pve)
+//notes: Aim for the One For All role especially if you will be using this while sitting back away from ADs. tags:god-pve,pve
+dimwishlist:item=2372514508&perks=1840239774,1087426260,3891536761,4049631843
+dimwishlist:item=2372514508&perks=1840239774,1087426260,3891536761,4104185692
+
+
+// Blast Furnace (pve)
+//notes: Aim for the One For All role especially if you will be using this while sitting back away from ADs. tags:pve
+dimwishlist:item=2372514508&perks=3891536761,4049631843
+dimwishlist:item=2372514508&perks=3891536761,4104185692
+
+
+// Midnight Coup (god-pve,pve)
+//notes: Run-of-the-mill hand hand cannon for PVE. tags:god-pve,pve
+dimwishlist:item=2499720827&perks=1840239774,1087426260,3038247973,3891536761
+dimwishlist:item=2499720827&perks=1840239774,1087426260,3824105627,3891536761
+
+
+// Midnight Coup (pve)
+//notes: Run-of-the-mill hand hand cannon for PVE. tags:pve
+dimwishlist:item=2499720827&perks=3824105627,3891536761
+dimwishlist:item=2499720827&perks=3038247973,3891536761
+
+
+// Blast Furnace (god-pve,pve)
+//notes: Aim for the One For All role especially if you will be using this while sitting back away from ADs. tags:god-pve,pve
+dimwishlist:item=2533990645&perks=1840239774,1087426260,3891536761,4049631843
+dimwishlist:item=2533990645&perks=1840239774,1087426260,3891536761,4104185692
+
+
+// Blast Furnace (pve)
+//notes: Aim for the One For All role especially if you will be using this while sitting back away from ADs. tags:pve
+dimwishlist:item=2533990645&perks=3891536761,4049631843
+dimwishlist:item=2533990645&perks=3891536761,4104185692
+
+
+// Midnight Coup (god-pve,pve)
+//notes: Run-of-the-mill hand hand cannon for PVE. tags:god-pve,pve
+dimwishlist:item=2763843898&perks=1840239774,1087426260,3824105627,3891536761
+dimwishlist:item=2763843898&perks=1840239774,1087426260,3038247973,3891536761
+
+
+// Midnight Coup (pve)
+//notes: Run-of-the-mill hand hand cannon for PVE. tags:pve
+dimwishlist:item=2763843898&perks=3824105627,3891536761
+dimwishlist:item=2763843898&perks=3038247973,3891536761
+
+
+// Succession ()
+//notes: Auto Dismantle, just get the craftable version.
+dimwishlist:item=3612338554&perks=
+
+
+// The Mountaintop (god-pve,pve)
+//notes: This is a perfect roll for if you want to treat your mountaintop as a primary weapon where you shoot into a group of ads for a kill to proc ambitious and also proc One For All for damage boost. tags:god-pve,pve
+dimwishlist:item=4043921923&perks=981914802,3301904089,2010801679,4049631843
+dimwishlist:item=4043921923&perks=981914802,3492396210,2010801679,4049631843
+
+
+// The Mountaintop (god-pve,pve)
+//notes: This is a perfect roll for dealing a huge chunk of damage to champs and other high-health enemies. You will want to build of recombination and by the time you have it ready auto-loading should have it loaded tags:god-pve,pve
+dimwishlist:item=4043921923&perks=981914802,3301904089,3300816228,469285294
+dimwishlist:item=4043921923&perks=981914802,3492396210,3300816228,469285294
+
+
+// The Mountaintop (pve)
+//notes: Roll for using Mountain Top as more of an ad-clear weapon where you proc ambitious for 2 rounds in the mag and One For All for damage. Aim to get hard launch and Spike/Implosion for perfect roll. tags:pve
+dimwishlist:item=4043921923&perks=2010801679,4049631843
+
+
+// The Mountaintop (pve)
+//notes: Roll for taking a chunk out of Champs and other high-health enemies. Build up recombination then chunk them down while switching back to primary or heavy, auto-loading will have it ready for you the next time you need it. tags:pve
+dimwishlist:item=4043921923&perks=3300816228,469285294
+
+
