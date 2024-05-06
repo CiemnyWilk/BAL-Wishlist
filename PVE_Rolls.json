@@ -530,6 +530,432 @@
             "tags": [
                 "PVE"
             ]
+        },
+        {
+            "description": "Solar surge matching swap damage OR blinding GL",
+            "hash": 4255586669,
+            "name": "",
+            "plugs": [
+                [
+                    3798852852,
+                    3525010810
+                ],
+                [
+                    3032599245,
+                    3301904089
+                ],
+                [
+                    3300816228,
+                    1556840489
+                ],
+                [
+                    1546637391,
+                    4049631843
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 4255586669,
+            "name": "",
+            "plugs": [
+                [
+                    1556840489,
+                    3300816228
+                ],
+                [
+                    1546637391,
+                    4049631843
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Craftable energy blinding GL can roll voltshot for overload stuns but no auto loading or ambitious. Column 3 is mostly a wash so just use the obvious slightly better perks, voltshot will be best in column 4",
+            "hash": 268260373,
+            "name": "",
+            "plugs": [
+                [
+                    3798852852,
+                    3525010810
+                ],
+                [
+                    3032599245
+                ],
+                [
+                    1556840489,
+                    3442762221,
+                    968510818,
+                    424370782,
+                    4071163871,
+                    494941759
+                ],
+                [
+                    2173046394,
+                    1720528630,
+                    3523296417,
+                    1906147653,
+                    1683379515,
+                    2216471363
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Column 3 is mostly a wash so just use the obvious slightly better perks, voltshot will be best in column 4",
+            "hash": 268260373,
+            "name": "",
+            "plugs": [
+                [
+                    1556840489,
+                    3442762221,
+                    968510818,
+                    424370782,
+                    4071163871,
+                    494941759
+                ],
+                [
+                    2173046394,
+                    1720528630,
+                    3523296417,
+                    1906147653,
+                    1683379515,
+                    2216471363
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Kinetic slot auto-loading blinding GL, essentially infinite ammo, Adept Variant",
+            "hash": 1854753405,
+            "name": "",
+            "plugs": [
+                [
+                    3798852852,
+                    3525010810
+                ],
+                [
+                    3032599245
+                ],
+                [
+                    1556840489
+                ],
+                [
+                    3300816228
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Kinetic slot auto-loading blinding GL, essentially infinite ammo, Adept Variant",
+            "hash": 1854753405,
+            "name": "",
+            "plugs": [
+                [
+                    3032599245
+                ],
+                [
+                    1556840489
+                ],
+                [
+                    3300816228
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Kinetic slot auto-loading blinding GL, essentially infinite ammo, Adept Variant",
+            "hash": 4162642204,
+            "name": "",
+            "plugs": [
+                [
+                    3798852852,
+                    3525010810
+                ],
+                [
+                    3032599245
+                ],
+                [
+                    1556840489
+                ],
+                [
+                    3300816228
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Kinetic slot auto-loading blinding GL, essentially infinite ammo, Adept Variant",
+            "hash": 4162642204,
+            "name": "",
+            "plugs": [
+                [
+                    3032599245
+                ],
+                [
+                    1556840489
+                ],
+                [
+                    3300816228
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Kinetic slot auto-loading blinding GL, essentially infinite ammo, Adept Variant",
+            "hash": 40394833,
+            "name": "",
+            "plugs": [
+                [
+                    3798852852,
+                    3525010810
+                ],
+                [
+                    3032599245
+                ],
+                [
+                    1556840489
+                ],
+                [
+                    3300816228
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Kinetic slot auto-loading blinding GL, essentially infinite ammo, Adept Variant",
+            "hash": 40394833,
+            "name": "",
+            "plugs": [
+                [
+                    3032599245
+                ],
+                [
+                    1556840489
+                ],
+                [
+                    3300816228
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Kinetic slot auto-loading blinding GL, essentially infinite ammo, Adept Variant",
+            "hash": 2378101424,
+            "name": "",
+            "plugs": [
+                [
+                    3798852852,
+                    3525010810
+                ],
+                [
+                    3032599245
+                ],
+                [
+                    1556840489
+                ],
+                [
+                    3300816228
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Kinetic slot auto-loading blinding GL, essentially infinite ammo, Adept Variant",
+            "hash": 2378101424,
+            "name": "",
+            "plugs": [
+                [
+                    3032599245
+                ],
+                [
+                    1556840489
+                ],
+                [
+                    3300816228
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Kinetic slot auto-loading blinding GL, craftable",
+            "hash": 3849810018,
+            "name": "",
+            "plugs": [
+                [
+                    3798852852,
+                    3525010810
+                ],
+                [
+                    3032599245
+                ],
+                [
+                    3300816228,
+                    3528046508
+                ],
+                [
+                    3523296417,
+                    1906147653,
+                    3418165135,
+                    1546637391,
+                    536173722,
+                    691659142,
+                    3592538738,
+                    2675361166
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Kinetic slot auto-loading blinding GL, craftable",
+            "hash": 3849810018,
+            "name": "",
+            "plugs": [
+                [
+                    3032599245
+                ],
+                [
+                    3300816228,
+                    3528046508
+                ],
+                [
+                    3523296417,
+                    3592538738,
+                    691659142,
+                    2675361166,
+                    3418165135,
+                    1546637391,
+                    1906147653,
+                    536173722
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Kinetic slot blinding GL, slideshot is relatively unique and very strong",
+            "hash": 304659313,
+            "name": "",
+            "plugs": [
+                [
+                    3798852852,
+                    3525010810
+                ],
+                [
+                    3032599245
+                ],
+                [
+                    3161816588
+                ],
+                [
+                    1546637391,
+                    4104185692
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Kinetic slot blinding GL, slideshot is relatively unique and very strong",
+            "hash": 304659313,
+            "name": "",
+            "plugs": [
+                [
+                    3032599245
+                ],
+                [
+                    3161816588
+                ],
+                [
+                    4104185692,
+                    1546637391
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Kinetic slot blinding GL, Chill Clip for stasis synergy and CC",
+            "hash": 2026087437,
+            "name": "",
+            "plugs": [
+                [
+                    3798852852,
+                    3525010810
+                ],
+                [
+                    3032599245
+                ],
+                [
+                    3300816228
+                ],
+                [
+                    2978966579,
+                    3523296417
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Kinetic slot blinding GL, Chill Clip for stasis synergy and CC",
+            "hash": 2026087437,
+            "name": "",
+            "plugs": [
+                [
+                    3032599245
+                ],
+                [
+                    3300816228
+                ],
+                [
+                    3523296417,
+                    2978966579
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
         }
     ]
 }
