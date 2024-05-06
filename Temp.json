@@ -1,0 +1,535 @@
+{
+    "description": "",
+    "name": "Temp",
+    "data": [
+        {
+            "description": "The roll for forbearance.",
+            "hash": 613334176,
+            "name": "",
+            "plugs": [
+                [
+                    3525010810,
+                    3798852852
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    2010801679,
+                    3797647183
+                ],
+                [
+                    598607952,
+                    2396489472
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "The perk set for forbearance",
+            "hash": 613334176,
+            "name": "",
+            "plugs": [
+                [
+                    2010801679
+                ],
+                [
+                    2396489472
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Possible other perk combos for this gun",
+            "hash": 613334176,
+            "name": "",
+            "plugs": [
+                [
+                    3525010810,
+                    3798852852
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    1409206216,
+                    1583705720
+                ],
+                [
+                    4049631843,
+                    859780267,
+                    2675361166,
+                    3592538738
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Some other fun perks for Forbearance",
+            "hash": 613334176,
+            "name": "",
+            "plugs": [
+                [
+                    1409206216,
+                    1583705720
+                ],
+                [
+                    4049631843,
+                    859780267,
+                    2675361166,
+                    3592538738
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "The Roll for Forbearance",
+            "hash": 4038592169,
+            "name": "",
+            "plugs": [
+                [
+                    3525010810,
+                    3798852852
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    3797647183,
+                    2010801679
+                ],
+                [
+                    598607952,
+                    2396489472
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 4038592169,
+            "name": "",
+            "plugs": [
+                [
+                    3797647183,
+                    2010801679
+                ],
+                [
+                    2396489472,
+                    598607952
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Other Fun Perk Combos",
+            "hash": 4038592169,
+            "name": "",
+            "plugs": [
+                [
+                    3525010810,
+                    3798852852
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    1583705720,
+                    1409206216
+                ],
+                [
+                    3592538738,
+                    2675361166,
+                    859780267,
+                    4049631843
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 4038592169,
+            "name": "",
+            "plugs": [
+                [
+                    1583705720,
+                    1409206216
+                ],
+                [
+                    3592538738,
+                    2675361166,
+                    4049631843,
+                    859780267
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Best gun in the game No cap",
+            "hash": 2936850733,
+            "name": "",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    3032599245
+                ],
+                [
+                    2869569095
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Wellspring allows for great ability regen, being on a wave frame, and column 4 is mostly up to preference. Repulsor Brace offers more survivability for void builds but Destabilizing Rounds are great for ad clear",
+            "hash": 1606497639,
+            "name": "",
+            "plugs": [
+                [
+                    3525010810,
+                    3798852852
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    3592538738
+                ],
+                [
+                    2048641572,
+                    776531651,
+                    2610012052
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Other Variations for if you don't want to use Wellspring",
+            "hash": 1606497639,
+            "name": "",
+            "plugs": [
+                [
+                    3798852852,
+                    3525010810
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    2869569095,
+                    1583705720
+                ],
+                [
+                    2610012052,
+                    2048641572,
+                    776531651
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Wellspring allows for great ability regen, being on a wave frame, and column 4 is mostly up to preference. Repulsor Brace offers more survivability for void builds but Destabilizing Rounds are great for ad clear",
+            "hash": 1606497639,
+            "name": "",
+            "plugs": [
+                [
+                    3592538738
+                ],
+                [
+                    2610012052,
+                    776531651,
+                    2048641572
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "For if you don't want to run Wellspring",
+            "hash": 1606497639,
+            "name": "",
+            "plugs": [
+                [
+                    2869569095,
+                    1583705720
+                ],
+                [
+                    2610012052,
+                    2048641572,
+                    776531651
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Demo + Adrenaline offers a fantastic add-clear combo for grenade spam & high damage, but redirection also offers more consistent chunking on any majors you also happen to hit",
+            "hash": 1125217994,
+            "name": "",
+            "plugs": [
+                [
+                    3525010810,
+                    3798852852
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    3523296417,
+                    1556840489
+                ],
+                [
+                    11612903,
+                    3201496230
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Demo + Adrenaline offers a fantastic add-clear combo for grenade spam & high damage, but redirection also offers more consistent chunking on any majors you also happen to hit",
+            "hash": 1125217994,
+            "name": "",
+            "plugs": [
+                [
+                    3523296417,
+                    1556840489
+                ],
+                [
+                    3201496230,
+                    11612903
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "While this can fit the same niche as Explosive Personality, the other GL is easier to obtain and is craftable, so sticking with its niche of voltshot on a wave frame would be best",
+            "hash": 1151688091,
+            "name": "",
+            "plugs": [
+                [
+                    3525010810,
+                    3798852852
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    1583705720,
+                    2010801679,
+                    1556840489
+                ],
+                [
+                    2173046394,
+                    4049631843
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Perfect for Voltshot but other rolls wishlist are good too",
+            "hash": 672957262,
+            "name": "",
+            "plugs": [
+                [
+                    3798852852,
+                    3525010810
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    1556840489,
+                    1583705720,
+                    2010801679
+                ],
+                [
+                    2173046394,
+                    4049631843
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 672957262,
+            "name": "",
+            "plugs": [
+                [
+                    1556840489,
+                    2010801679,
+                    1583705720
+                ],
+                [
+                    4049631843,
+                    2173046394
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "While this can fit the same niche as Explosive Personality, the other GL is easier to obtain and is craftable, so sticking with it's niche of voltshot on a wave frame would be best",
+            "hash": 1151688091,
+            "name": "",
+            "plugs": [
+                [
+                    1556840489,
+                    1583705720,
+                    2010801679
+                ],
+                [
+                    4049631843,
+                    2173046394
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Stats for All and One for All are the obvious combo, although others could be serviceable",
+            "hash": 4096943616,
+            "name": "",
+            "plugs": [
+                [
+                    3798852852,
+                    3525010810
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    1583705720,
+                    1409206216,
+                    3528046508,
+                    3300816228
+                ],
+                [
+                    4049631843,
+                    859780267,
+                    4104185692,
+                    3007133316,
+                    3108830275,
+                    855168139
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Stats for All and One for all are the obvious combo, although others could be serviceable",
+            "hash": 4096943616,
+            "name": "",
+            "plugs": [
+                [
+                    1583705720,
+                    3300816228,
+                    1409206216,
+                    3528046508
+                ],
+                [
+                    4104185692,
+                    3007133316,
+                    3108830275,
+                    855168139,
+                    4049631843,
+                    859780267
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Void blinding GL, kinetic damage boost from DB",
+            "hash": 1946491241,
+            "name": "",
+            "plugs": [
+                [
+                    3798852852,
+                    3525010810
+                ],
+                [
+                    3032599245
+                ],
+                [
+                    3300816228
+                ],
+                [
+                    3523296417,
+                    1683379515
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Void blinding GL, kinetic damage boost from DB",
+            "hash": 1946491241,
+            "name": "",
+            "plugs": [
+                [
+                    3032599245
+                ],
+                [
+                    3300816228
+                ],
+                [
+                    3523296417,
+                    1683379515
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        }
+    ]
+}
