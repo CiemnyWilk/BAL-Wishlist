@@ -957,5 +957,1341 @@
                 "PVE"
             ]
         }
+            {
+            "description": "This is a perfect roll for if you want to treat your mountaintop as a primary weapon where you shoot into a group of ads for a kill to proc ambitious and also proc One For All for damage boost.",
+            "hash": 568611922,
+            "name": "",
+            "plugs": [
+                [
+                    981914802
+                ],
+                [
+                    3301904089,
+                    3492396210
+                ],
+                [
+                    2010801679
+                ],
+                [
+                    4049631843
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Roll for using Mountain Top as more of an ad-clear weapon where you proc ambitious for 2 rounds in the mag and One For All for damage. Aim to get hard launch and Spike/Implosion for perfect roll.",
+            "hash": 568611922,
+            "name": "",
+            "plugs": [
+                [
+                    2010801679
+                ],
+                [
+                    4049631843
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "This is a perfect roll for dealing a huge chunk of damage to champs and other high-health enemies. You will want to build of recombination and by the time you have it ready auto-loading should have it loaded",
+            "hash": 568611922,
+            "name": "",
+            "plugs": [
+                [
+                    981914802
+                ],
+                [
+                    3301904089,
+                    3492396210
+                ],
+                [
+                    3300816228
+                ],
+                [
+                    469285294
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Roll for taking a chunk out of Champs and other high-health enemies. Build up recombination then chunk them down while switching back to primary or heavy, auto-loading will have it ready for you the next time you need it.",
+            "hash": 568611922,
+            "name": "",
+            "plugs": [
+                [
+                    3300816228
+                ],
+                [
+                    469285294
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "This is a perfect roll for if you want to treat your mountaintop as a primary weapon where you shoot into a group of ads for a kill to proc ambitious and also proc One For All for damage boost.",
+            "hash": 4043921923,
+            "name": "",
+            "plugs": [
+                [
+                    981914802
+                ],
+                [
+                    3301904089,
+                    3492396210
+                ],
+                [
+                    2010801679
+                ],
+                [
+                    4049631843
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Roll for using Mountain Top as more of an ad-clear weapon where you proc ambitious for 2 rounds in the mag and One For All for damage. Aim to get hard launch and Spike/Implosion for perfect roll.",
+            "hash": 4043921923,
+            "name": "",
+            "plugs": [
+                [
+                    2010801679
+                ],
+                [
+                    4049631843
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "This is a perfect roll for dealing a huge chunk of damage to champs and other high-health enemies. You will want to build of recombination and by the time you have it ready auto-loading should have it loaded",
+            "hash": 4043921923,
+            "name": "",
+            "plugs": [
+                [
+                    981914802
+                ],
+                [
+                    3301904089,
+                    3492396210
+                ],
+                [
+                    3300816228
+                ],
+                [
+                    469285294
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Roll for taking a chunk out of Champs and other high-health enemies. Build up recombination then chunk them down while switching back to primary or heavy, auto-loading will have it ready for you the next time you need it.",
+            "hash": 4043921923,
+            "name": "",
+            "plugs": [
+                [
+                    3300816228
+                ],
+                [
+                    469285294
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Hung jury is a pick-your-own-adventure weapon as you can pair Kinetic Tremors with pretty much anything. I would recommend One For All but Explosive and FireFly Work too.",
+            "hash": 1453235079,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    106909392
+                ],
+                [
+                    3891536761
+                ],
+                [
+                    4049631843,
+                    3824105627,
+                    3038247973
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Hung jury is a pick-your-own-adventure weapon as you can pair Kinetic Tremors with pretty much anything. I would recommend One For All but Explosive and FireFly Work too.",
+            "hash": 1453235079,
+            "name": "",
+            "plugs": [
+                [
+                    3891536761
+                ],
+                [
+                    3038247973,
+                    3824105627,
+                    4049631843
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Hung jury is a pick-your-own-adventure weapon as you can pair Kinetic Tremors with pretty much anything. I would recommend One For All but Explosive and FireFly Work too.",
+            "hash": 205225492,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    106909392
+                ],
+                [
+                    3891536761
+                ],
+                [
+                    4049631843,
+                    3824105627,
+                    3038247973
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Hung jury is a pick-your-own-adventure weapon as you can pair Kinetic Tremors with pretty much anything. I would recommend One For All but Explosive and FireFly Work too.",
+            "hash": 205225492,
+            "name": "",
+            "plugs": [
+                [
+                    3891536761
+                ],
+                [
+                    4049631843,
+                    3824105627,
+                    3038247973
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Auto Dismantle, just get the craftable version.",
+            "hash": 3612338554,
+            "name": "",
+            "plugs": [],
+            "tags": []
+        },
+        {
+            "description": "Auto Dismantle, just get the craftable version.",
+            "hash": 570866107,
+            "name": "",
+            "plugs": [],
+            "tags": []
+        },
+        {
+            "description": "Run-of-the-mill hand hand cannon for PVE.",
+            "hash": 2763843898,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    3824105627,
+                    3038247973
+                ],
+                [
+                    3891536761
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Run-of-the-mill hand hand cannon for PVE.",
+            "hash": 2763843898,
+            "name": "",
+            "plugs": [
+                [
+                    3824105627,
+                    3038247973
+                ],
+                [
+                    3891536761
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Run-of-the-mill hand hand cannon for PVE.",
+            "hash": 2499720827,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    3038247973,
+                    3824105627
+                ],
+                [
+                    3891536761
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Run-of-the-mill hand hand cannon for PVE.",
+            "hash": 2499720827,
+            "name": "",
+            "plugs": [
+                [
+                    3824105627,
+                    3038247973
+                ],
+                [
+                    3891536761
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Aim for the One For All role especially if you will be using this while sitting back away from ADs.",
+            "hash": 2372514508,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    3891536761
+                ],
+                [
+                    4049631843,
+                    4104185692
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Aim for the One For All role especially if you will be using this while sitting back away from ADs.",
+            "hash": 2372514508,
+            "name": "",
+            "plugs": [
+                [
+                    3891536761
+                ],
+                [
+                    4049631843,
+                    4104185692
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Aim for the One For All role especially if you will be using this while sitting back away from ADs.",
+            "hash": 2533990645,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    3891536761
+                ],
+                [
+                    4049631843,
+                    4104185692
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Aim for the One For All role especially if you will be using this while sitting back away from ADs.",
+            "hash": 2533990645,
+            "name": "",
+            "plugs": [
+                [
+                    3891536761
+                ],
+                [
+                    4049631843,
+                    4104185692
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Repulsor Brace and Destabilizing Rounds can be a very deadly combo if paired with a strong void build.",
+            "hash": 1050806815,
+            "name": "",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    776531651
+                ],
+                [
+                    2048641572
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Repulsor Brace and Destabilizing Rounds can be a very deadly combo if paired with a strong void build.",
+            "hash": 1050806815,
+            "name": "",
+            "plugs": [
+                [
+                    776531651
+                ],
+                [
+                    2048641572
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "This roll can be deadly if paired with a void build that is good at debuffing enemies.",
+            "hash": 1050806815,
+            "name": "",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    776531651
+                ],
+                [
+                    2109543898,
+                    3708227201
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "This roll can be deadly if paired with a void build that is good at debuffing enemies.",
+            "hash": 1050806815,
+            "name": "",
+            "plugs": [
+                [
+                    776531651
+                ],
+                [
+                    3708227201,
+                    2109543898
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Just the generic SMG roll for PVE. There are better builds specifically for build crafting but if you're not running a void subclass this would be perfect to use.",
+            "hash": 1050806815,
+            "name": "",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    4071163871
+                ],
+                [
+                    2109543898,
+                    3708227201
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Just the generic SMG roll for PVE. There are better builds specifically for build crafting but if you're not running a void subclass this would be perfect to use.",
+            "hash": 1050806815,
+            "name": "",
+            "plugs": [
+                [
+                    4071163871
+                ],
+                [
+                    3708227201,
+                    2109543898
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Repulsor Brace and Destabilizing Rounds can be a very deadly combo if paired with a strong void build.",
+            "hash": 3098328572,
+            "name": "",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    776531651
+                ],
+                [
+                    2048641572
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Repulsor Brace and Destabilizing Rounds can be a very deadly combo if paired with a strong void build.",
+            "hash": 3098328572,
+            "name": "",
+            "plugs": [
+                [
+                    776531651
+                ],
+                [
+                    2048641572
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "This roll can be deadly if paired with a void build that is good at debuffing enemies.",
+            "hash": 3098328572,
+            "name": "",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    776531651
+                ],
+                [
+                    3708227201,
+                    2109543898
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "This roll can be deadly if paired with a void build that is good at debuffing enemies.",
+            "hash": 3098328572,
+            "name": "",
+            "plugs": [
+                [
+                    776531651
+                ],
+                [
+                    3708227201,
+                    2109543898
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Just the generic SMG roll for PVE. There are better builds specifically for build crafting but if you're not running a void subclass this would be perfect to use.",
+            "hash": 3098328572,
+            "name": "",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    4071163871
+                ],
+                [
+                    3708227201,
+                    2109543898
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Just the generic SMG roll for PVE. There are better builds specifically for build crafting but if you're not running a void subclass this would be perfect to use.",
+            "hash": 3098328572,
+            "name": "",
+            "plugs": [
+                [
+                    4071163871
+                ],
+                [
+                    3708227201,
+                    2109543898
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "General use, great for void builds to provide over-shields & DR",
+            "hash": 2372514509,
+            "name": "",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    679225683
+                ],
+                [
+                    776531651
+                ],
+                [
+                    4104185692
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Better options are available for primaries, pulse rifles aren't amazing for pve currently",
+            "hash": 2372514509,
+            "name": "",
+            "plugs": [
+                [
+                    776531651
+                ],
+                [
+                    4104185692
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "General use, great for void builds to provide over-shields & DR",
+            "hash": 3851176026,
+            "name": "",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    679225683
+                ],
+                [
+                    776531651
+                ],
+                [
+                    4104185692
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Better options are available for primaries, pulse rifles aren't amazing for pve currently",
+            "hash": 3851176026,
+            "name": "",
+            "plugs": [
+                [
+                    776531651
+                ],
+                [
+                    4104185692
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Just get the craftable version.",
+            "hash": 568611921,
+            "name": "",
+            "plugs": [],
+            "tags": []
+        },
+        {
+            "description": "Just get the craftable version.",
+            "hash": 2480074702,
+            "name": "",
+            "plugs": [],
+            "tags": []
+        },
+        {
+            "description": "Great hand cannon for solar subs running Empyrean resto, heal clip offers fantastic survivability on all subs, and both mag howl & incan is useful",
+            "hash": 2763843899,
+            "name": "",
+            "plugs": [
+                [
+                    4090651448
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    3828510309,
+                    1820235745,
+                    3017780555
+                ],
+                [
+                    2720533289,
+                    4293542123
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "General use primary, mag howl offers good damage and has a higher base ae compared to other 140s",
+            "hash": 2763843899,
+            "name": "",
+            "plugs": [
+                [
+                    3828510309,
+                    3017780555,
+                    1820235745
+                ],
+                [
+                    2720533289,
+                    4293542123
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Great hand cannon for solar subs running Empyrean resto, heal clip offers fantastic survivability on all subs, and both mag howl & incan is useful",
+            "hash": 3757612024,
+            "name": "",
+            "plugs": [
+                [
+                    4090651448
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    3017780555,
+                    1820235745,
+                    3828510309
+                ],
+                [
+                    2720533289,
+                    4293542123
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "General use primary, mag howl offers good damage and has a higher base ae compared to other 140s",
+            "hash": 3757612024,
+            "name": "",
+            "plugs": [
+                [
+                    3828510309,
+                    3017780555,
+                    1820235745
+                ],
+                [
+                    2720533289,
+                    4293542123
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Hands down the highest DPS sword if you can get frenzy and surrounded procked the entire time. Otherwise, just use a better sword (Bequest).",
+            "hash": 1815105249,
+            "name": "",
+            "plugs": [
+                [
+                    3666208348
+                ],
+                [
+                    269888150
+                ],
+                [
+                    4104185692
+                ],
+                [
+                    3708227201
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Only keep if you don't have a bequest. This weapon can only beat it in very specific circumstances and if it is a perfect god roll.",
+            "hash": 1815105249,
+            "name": "",
+            "plugs": [
+                [
+                    4104185692
+                ],
+                [
+                    3708227201
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Movement and Utility, 100% keep, better animation for skating",
+            "hash": 1815105249,
+            "name": "",
+            "plugs": [
+                [
+                    1261178282
+                ],
+                [
+                    269888150
+                ],
+                [
+                    2396489472,
+                    4104185692
+                ],
+                [
+                    2077819806
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Movement and utility, 100% keep, better animation for skating",
+            "hash": 1815105249,
+            "name": "",
+            "plugs": [
+                [
+                    4104185692,
+                    2396489472
+                ],
+                [
+                    2077819806
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Hands down the highest DPS sword if you can get frenzy and surrounded procked the entire time. Otherwise, just use a better sword.",
+            "hash": 243425374,
+            "name": "",
+            "plugs": [
+                [
+                    3666208348
+                ],
+                [
+                    269888150
+                ],
+                [
+                    4104185692
+                ],
+                [
+                    3708227201
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Only keep if you don't have a bequest. This weapon can only beat it in very specific circumstances and if it is a perfect god roll.",
+            "hash": 243425374,
+            "name": "",
+            "plugs": [
+                [
+                    4104185692
+                ],
+                [
+                    3708227201
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Movement and utility, 100% keep, better animation for skating",
+            "hash": 243425374,
+            "name": "",
+            "plugs": [
+                [
+                    1261178282
+                ],
+                [
+                    269888150
+                ],
+                [
+                    4104185692,
+                    2396489472
+                ],
+                [
+                    2077819806
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Movement and utility, 100% keep, better animation for skating",
+            "hash": 243425374,
+            "name": "",
+            "plugs": [
+                [
+                    2396489472,
+                    4104185692
+                ],
+                [
+                    2077819806
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "DPS build for Edge Transit. This roll is only for damage and not meant for adclear but with it being A GL you can easily use it for adclear in a pinch. (Not the perfect god roll would be a shiny that has Envious so you can swap from Envious to Cascade for damage)",
+            "hash": 568611923,
+            "name": "",
+            "plugs": [
+                [
+                    981914802
+                ],
+                [
+                    3301904089
+                ],
+                [
+                    3751912585
+                ],
+                [
+                    3993379141,
+                    3078487919,
+                    3194351027
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "DPS build for Edge Transit. This roll is only for damage and not meant for adclear but with it being A GL you can easily use it for adclear in a pinch. (Not the perfect god roll would be a shiny that has Envious so you can swap from Envious to Cascade for damage)",
+            "hash": 568611923,
+            "name": "",
+            "plugs": [
+                [
+                    3751912585
+                ],
+                [
+                    3993379141,
+                    3194351027,
+                    3078487919
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Roll for AD clear if you want a GL for that. It is recommended to use a different weapon type of adclear like a machine gun but this is an option.",
+            "hash": 568611923,
+            "name": "",
+            "plugs": [
+                [
+                    981914802
+                ],
+                [
+                    3301904089
+                ],
+                [
+                    2396489472
+                ],
+                [
+                    3993379141,
+                    3078487919,
+                    3194351027
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Roll for AD clear if you want a GL for that. It is recommended to use a different weapon type of adclear like a machine gun but this is an option.",
+            "hash": 568611923,
+            "name": "",
+            "plugs": [
+                [
+                    2396489472
+                ],
+                [
+                    3993379141,
+                    3078487919,
+                    3194351027
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Roll for AD clear if you want a GL for that. It is recommended to use a different weapon type of adclear like a machine gun but this is an option.",
+            "hash": 2228325504,
+            "name": "",
+            "plugs": [
+                [
+                    981914802
+                ],
+                [
+                    3301904089
+                ],
+                [
+                    3751912585
+                ],
+                [
+                    3993379141,
+                    3078487919,
+                    3194351027
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Roll for AD clear if you want a GL for that. It is recommended to use a different weapon type of adclear like a machine gun but this is an option.",
+            "hash": 2228325504,
+            "name": "",
+            "plugs": [
+                [
+                    3751912585
+                ],
+                [
+                    3993379141,
+                    3078487919,
+                    3194351027
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2228325504,
+            "name": "",
+            "plugs": [
+                [
+                    981914802
+                ],
+                [
+                    3301904089
+                ],
+                [
+                    2396489472
+                ],
+                [
+                    3993379141,
+                    3078487919,
+                    3194351027
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Roll for AD clear if you want a GL for that. It is recommended to use a different weapon type of adclear like a machine gun but this is an option.",
+            "hash": 2228325504,
+            "name": "",
+            "plugs": [
+                [
+                    2396489472
+                ],
+                [
+                    3993379141,
+                    3078487919,
+                    3194351027
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Double Damage perk so you can delete those pesky ads in as few bullets as possible",
+            "hash": 1896309757,
+            "name": "",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    3425386926
+                ],
+                [
+                    557221067
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Double Damage perk so you can delete those pesky ads in as few bullets as possible",
+            "hash": 1896309757,
+            "name": "",
+            "plugs": [
+                [
+                    3425386926
+                ],
+                [
+                    557221067
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Fourth Time's The Charm pulls ammo out of thin air so this is good for when you won't have access to much heavy ammo",
+            "hash": 1896309757,
+            "name": "",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    1354429876
+                ],
+                [
+                    557221067
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Fourth Time's The Charm pulls ammo out of thin air so this is good for when you won't have access to much heavy ammo",
+            "hash": 1896309757,
+            "name": "",
+            "plugs": [
+                [
+                    1354429876
+                ],
+                [
+                    557221067
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Double Damage perk so you can delete those pesky ads in as few bullets as possible",
+            "hash": 211732170,
+            "name": "",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    3425386926
+                ],
+                [
+                    557221067
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Double Damage perk so you can delete those pesky ads in as few bullets as possible",
+            "hash": 211732170,
+            "name": "",
+            "plugs": [
+                [
+                    3425386926
+                ],
+                [
+                    557221067
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Fourth Time's The Charm pulls ammo out of thin air so this is good for when you won't have access to much heavy ammo",
+            "hash": 211732170,
+            "name": "",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    1354429876
+                ],
+                [
+                    557221067
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Fourth Time's The Charm pulls ammo out of thin air so this is good for when you won't have access to much heavy ammo",
+            "hash": 211732170,
+            "name": "",
+            "plugs": [
+                [
+                    1354429876
+                ],
+                [
+                    557221067
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        }
     ]
 }
