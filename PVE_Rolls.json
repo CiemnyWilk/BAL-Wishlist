@@ -1205,13 +1205,6 @@
         },
         {
             "description": "Auto Dismantle, just get the craftable version.",
-            "hash": 3612338554,
-            "name": "",
-            "plugs": [],
-            "tags": []
-        },
-        {
-            "description": "Auto Dismantle, just get the craftable version.",
             "hash": 570866107,
             "name": "",
             "plugs": [],
@@ -1700,20 +1693,6 @@
             "tags": [
                 "PVE"
             ]
-        },
-        {
-            "description": "Just get the craftable version.",
-            "hash": 568611921,
-            "name": "",
-            "plugs": [],
-            "tags": []
-        },
-        {
-            "description": "Just get the craftable version.",
-            "hash": 2480074702,
-            "name": "",
-            "plugs": [],
-            "tags": []
         },
         {
             "description": "Great hand cannon for solar subs running Empyrean resto, heal clip offers fantastic survivability on all subs, and both mag howl & incan is useful",
@@ -2287,6 +2266,123 @@
                 ],
                 [
                     557221067
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "The Forbearance roll if you don't have it crafted",
+            "hash": 568611921,
+            "name": "",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    2010801679
+                ],
+                [
+                    2396489472
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "The roll if you don't have it crafted quite yet",
+            "hash": 568611921,
+            "name": "",
+            "plugs": [
+                [
+                    2010801679
+                ],
+                [
+                    2396489472
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "The roll if you don't have it crafted yet",
+            "hash": 2480074702,
+            "name": "",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    2010801679
+                ],
+                [
+                    2396489472
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "The Roll for if you don't have it crafted yet",
+            "hash": 2480074702,
+            "name": "",
+            "plugs": [
+                [
+                    2010801679
+                ],
+                [
+                    2396489472
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "The roll for Succession for if you don't have it crafted yet",
+            "hash": 3612338554,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    106909392
+                ],
+                [
+                    1523832109
+                ],
+                [
+                    469285294
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "The roll if you don't have it crafted yet",
+            "hash": 3612338554,
+            "name": "",
+            "plugs": [
+                [
+                    1523832109
+                ],
+                [
+                    469285294
                 ]
             ],
             "tags": [
