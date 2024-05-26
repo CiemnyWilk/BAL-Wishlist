@@ -2388,6 +2388,304 @@
             "tags": [
                 "PVE"
             ]
+        },
+        {
+            "description": "Wilderflight is currently the best special GL for boss damage due to being a doublefire GL, and having access to auto-loading, unlike Wildstyle. Its most applicable use case is swap dps load-outs, or for proccing bait and switch.",
+            "hash": 2306182339,
+            "name": "",
+            "plugs": [
+                [
+                    981914802
+                ],
+                [
+                    3301904089,
+                    3492396210
+                ],
+                [
+                    3300816228
+                ],
+                [
+                    1546637391,
+                    4104185692
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Wilderflight is currently the best special GL for boss damage due to being a doublefire GL, and having access to auto-loading, unlike Wildstyle. Its most applicable use case is swap dps load-outs, or for proccing bait and switch.",
+            "hash": 2306182339,
+            "name": "",
+            "plugs": [
+                [
+                    3300816228
+                ],
+                [
+                    1546637391,
+                    4104185692
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Demolitionist roll for nade builds but there is better if you want it for its best role which is boss damage",
+            "hash": 2306182339,
+            "name": "",
+            "plugs": [
+                [
+                    981914802
+                ],
+                [
+                    3301904089,
+                    3492396210
+                ],
+                [
+                    3523296417
+                ],
+                [
+                    1546637391,
+                    4104185692
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Roll for nades build but there's a better role for boss damage",
+            "hash": 2306182339,
+            "name": "",
+            "plugs": [
+                [
+                    3523296417
+                ],
+                [
+                    4104185692,
+                    1683379515
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Not worth grabbing tbh, but it stats for + one for is okay",
+            "hash": 1332123064,
+            "name": "",
+            "plugs": [
+                [
+                    981914802
+                ],
+                [
+                    3301904089,
+                    3492396210
+                ],
+                [
+                    1583705720,
+                    3828510309
+                ],
+                [
+                    4049631843,
+                    3708227201
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Not worth grabbing tbh, but it stats for + one for is okay",
+            "hash": 1332123064,
+            "name": "",
+            "plugs": [
+                [
+                    1583705720,
+                    3828510309
+                ],
+                [
+                    3708227201,
+                    4049631843
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Not worth grabbing tbh, but it stats for + one for is okay",
+            "hash": 959037361,
+            "name": "",
+            "plugs": [
+                [
+                    981914802
+                ],
+                [
+                    3301904089,
+                    3492396210
+                ],
+                [
+                    1583705720,
+                    3828510309
+                ],
+                [
+                    4049631843,
+                    3708227201
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Not worth grabbing tbh, but it stats for + one for is okay",
+            "hash": 959037361,
+            "name": "",
+            "plugs": [
+                [
+                    3828510309,
+                    1583705720
+                ],
+                [
+                    3708227201,
+                    4049631843
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "The OG top dawg, great for both add clear and damage. ",
+            "hash": 2060863616,
+            "name": "",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    3301904089
+                ],
+                [
+                    2010801679,
+                    3523296417
+                ],
+                [
+                    2396489472,
+                    1546637391
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "This weapon straight-up feels amazing to use and does fantastic damage. Perfect weapon for chunking majors, taking out shields, or just general add clear while being very ammo efficient with Lead from Gold making it a must-have for double special",
+            "hash": 3381450498,
+            "name": "",
+            "plugs": [
+                [
+                    3525010810,
+                    3798852852
+                ],
+                [
+                    1087426260,
+                    106909392
+                ],
+                [
+                    1556840489,
+                    2859149211
+                ],
+                [
+                    2173046394,
+                    2428997981,
+                    3673922083
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "This weapon straight-up feels amazing to use and does fantastic damage. Perfect weapon for chunking majors, taking out shields, or just general add clear while being very ammo efficient with Lead from Gold making it a must-have for double special",
+            "hash": 3381450498,
+            "name": "",
+            "plugs": [
+                [
+                    2859149211,
+                    1556840489
+                ],
+                [
+                    2428997981,
+                    3993379141,
+                    2173046394
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Best in slot option for burst damage, super satisfying and quick mag dump with the combo of Rewind Rounds and FTTC. Kinetic weapon damage increase",
+            "hash": 2884596447,
+            "name": "",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    3418782618,
+                    1563455254
+                ],
+                [
+                    3078487919,
+                    3891536761,
+                    1354429876,
+                    1546637391,
+                    848860060,
+                    1549370717,
+                    3418165135,
+                    3744057135
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Best in slot option for burst damage, super satisfying and quick mag dump with the combo of Rewind Rounds and FTTC. Kinetic weapon damage increase",
+            "hash": 2884596447,
+            "name": "",
+            "plugs": [
+                [
+                    3418782618,
+                    1563455254
+                ],
+                [
+                    1546637391,
+                    1354429876,
+                    3891536761,
+                    3078487919,
+                    3744057135,
+                    3418165135,
+                    1549370717,
+                    848860060
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
         }
     ]
 }
