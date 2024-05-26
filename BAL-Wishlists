@@ -338,6 +338,26 @@ dimwishlist:item=672957262&perks=1583705720,4049631843
 dimwishlist:item=672957262&perks=1583705720,2173046394
 
 
+// Wild Style (Adept) (pve,god-pve)
+//notes: Not worth grabbing tbh, but it stats for + one for is okay tags:pve,god-pve
+dimwishlist:item=959037361&perks=981914802,3301904089,1583705720,4049631843
+dimwishlist:item=959037361&perks=981914802,3301904089,1583705720,3708227201
+dimwishlist:item=959037361&perks=981914802,3301904089,3828510309,4049631843
+dimwishlist:item=959037361&perks=981914802,3301904089,3828510309,3708227201
+dimwishlist:item=959037361&perks=981914802,3492396210,1583705720,4049631843
+dimwishlist:item=959037361&perks=981914802,3492396210,1583705720,3708227201
+dimwishlist:item=959037361&perks=981914802,3492396210,3828510309,4049631843
+dimwishlist:item=959037361&perks=981914802,3492396210,3828510309,3708227201
+
+
+// Wild Style (Adept) (pve)
+//notes: Not worth grabbing tbh, but it stats for + one for is okay tags:pve
+dimwishlist:item=959037361&perks=3828510309,3708227201
+dimwishlist:item=959037361&perks=3828510309,4049631843
+dimwishlist:item=959037361&perks=1583705720,3708227201
+dimwishlist:item=959037361&perks=1583705720,4049631843
+
+
 // The Recluse (pve,god-pve)
 //notes: Repulsor Brace and Destabilizing Rounds can be a very deadly combo if paired with a strong void build. tags:pve,god-pve
 dimwishlist:item=1050806815&perks=1482024992,3230963543,776531651,2048641572
@@ -416,6 +436,26 @@ dimwishlist:item=1151688091&perks=1583705720,4049631843
 dimwishlist:item=1151688091&perks=1583705720,2173046394
 dimwishlist:item=1151688091&perks=2010801679,4049631843
 dimwishlist:item=1151688091&perks=2010801679,2173046394
+
+
+// Wild Style (god-pve,pve)
+//notes: Not worth grabbing tbh, but it stats for + one for is okay tags:god-pve,pve
+dimwishlist:item=1332123064&perks=981914802,3301904089,1583705720,4049631843
+dimwishlist:item=1332123064&perks=981914802,3301904089,1583705720,3708227201
+dimwishlist:item=1332123064&perks=981914802,3301904089,3828510309,4049631843
+dimwishlist:item=1332123064&perks=981914802,3301904089,3828510309,3708227201
+dimwishlist:item=1332123064&perks=981914802,3492396210,1583705720,4049631843
+dimwishlist:item=1332123064&perks=981914802,3492396210,1583705720,3708227201
+dimwishlist:item=1332123064&perks=981914802,3492396210,3828510309,4049631843
+dimwishlist:item=1332123064&perks=981914802,3492396210,3828510309,3708227201
+
+
+// Wild Style (pve)
+//notes: Not worth grabbing tbh, but it stats for + one for is okay tags:pve
+dimwishlist:item=1332123064&perks=1583705720,3708227201
+dimwishlist:item=1332123064&perks=1583705720,4049631843
+dimwishlist:item=1332123064&perks=3828510309,3708227201
+dimwishlist:item=1332123064&perks=3828510309,4049631843
 
 
 // Hung Jury SR4 (god-pve,pve)
@@ -556,6 +596,14 @@ dimwishlist:item=2026087437&perks=3032599245,3300816228,3523296417
 dimwishlist:item=2026087437&perks=3032599245,3300816228,2978966579
 
 
+// Salvager's Salvo (god-pve)
+//notes: The OG top dawg, great for both add clear and damage.  tags:god-pve
+dimwishlist:item=2060863616&perks=3525010810,3301904089,2010801679,2396489472
+dimwishlist:item=2060863616&perks=3525010810,3301904089,2010801679,1546637391
+dimwishlist:item=2060863616&perks=3525010810,3301904089,3523296417,2396489472
+dimwishlist:item=2060863616&perks=3525010810,3301904089,3523296417,1546637391
+
+
 // Edge Transit (god-pve,pve)
 //notes: Roll for AD clear if you want a GL for that. It is recommended to use a different weapon type of adclear like a machine gun but this is an option. tags:god-pve,pve
 dimwishlist:item=2228325504&perks=981914802,3301904089,3751912585,3993379141
@@ -582,6 +630,34 @@ dimwishlist:item=2228325504&perks=3751912585,3194351027
 dimwishlist:item=2228325504&perks=2396489472,3993379141
 dimwishlist:item=2228325504&perks=2396489472,3078487919
 dimwishlist:item=2228325504&perks=2396489472,3194351027
+
+
+// Wilderflight (god-pve,pve)
+//notes: Wilderflight is currently the best special GL for boss damage due to being a doublefire GL, and having access to auto-loading, unlike Wildstyle. Its most applicable use case is swap dps load-outs, or for proccing bait and switch. tags:god-pve,pve
+dimwishlist:item=2306182339&perks=981914802,3301904089,3300816228,1546637391
+dimwishlist:item=2306182339&perks=981914802,3301904089,3300816228,4104185692
+dimwishlist:item=2306182339&perks=981914802,3492396210,3300816228,1546637391
+dimwishlist:item=2306182339&perks=981914802,3492396210,3300816228,4104185692
+
+
+// Wilderflight (pve,god-pve)
+//notes: Demolitionist roll for nade builds but there is better if you want it for its best role which is boss damage tags:pve,god-pve
+dimwishlist:item=2306182339&perks=981914802,3301904089,3523296417,1546637391
+dimwishlist:item=2306182339&perks=981914802,3301904089,3523296417,4104185692
+dimwishlist:item=2306182339&perks=981914802,3492396210,3523296417,1546637391
+dimwishlist:item=2306182339&perks=981914802,3492396210,3523296417,4104185692
+
+
+// Wilderflight (pve)
+//notes: Wilderflight is currently the best special GL for boss damage due to being a doublefire GL, and having access to auto-loading, unlike Wildstyle. Its most applicable use case is swap dps load-outs, or for proccing bait and switch. tags:pve
+dimwishlist:item=2306182339&perks=3300816228,1546637391
+dimwishlist:item=2306182339&perks=3300816228,4104185692
+
+
+// Wilderflight (pve)
+//notes: Roll for nades build but there's a better role for boss damage tags:pve
+dimwishlist:item=2306182339&perks=3523296417,4104185692
+dimwishlist:item=2306182339&perks=3523296417,1683379515
 
 
 // Blast Furnace (god-pve,pve)
@@ -683,6 +759,46 @@ dimwishlist:item=2763843899&perks=1820235745,2720533289
 dimwishlist:item=2763843899&perks=1820235745,4293542123
 
 
+// The Supremacy (god-pve,pve)
+//notes: Best in slot option for burst damage, super satisfying and quick mag dump with the combo of Rewind Rounds and FTTC. Kinetic weapon damage increase tags:god-pve,pve
+dimwishlist:item=2884596447&perks=839105230,1087426260,3418782618,3078487919
+dimwishlist:item=2884596447&perks=839105230,1087426260,3418782618,3891536761
+dimwishlist:item=2884596447&perks=839105230,1087426260,3418782618,1354429876
+dimwishlist:item=2884596447&perks=839105230,1087426260,3418782618,1546637391
+dimwishlist:item=2884596447&perks=839105230,1087426260,3418782618,848860060
+dimwishlist:item=2884596447&perks=839105230,1087426260,3418782618,1549370717
+dimwishlist:item=2884596447&perks=839105230,1087426260,3418782618,3418165135
+dimwishlist:item=2884596447&perks=839105230,1087426260,3418782618,3744057135
+dimwishlist:item=2884596447&perks=839105230,1087426260,1563455254,3078487919
+dimwishlist:item=2884596447&perks=839105230,1087426260,1563455254,3891536761
+dimwishlist:item=2884596447&perks=839105230,1087426260,1563455254,1354429876
+dimwishlist:item=2884596447&perks=839105230,1087426260,1563455254,1546637391
+dimwishlist:item=2884596447&perks=839105230,1087426260,1563455254,848860060
+dimwishlist:item=2884596447&perks=839105230,1087426260,1563455254,1549370717
+dimwishlist:item=2884596447&perks=839105230,1087426260,1563455254,3418165135
+dimwishlist:item=2884596447&perks=839105230,1087426260,1563455254,3744057135
+
+
+// The Supremacy (pve)
+//notes: Best in slot option for burst damage, super satisfying and quick mag dump with the combo of Rewind Rounds and FTTC. Kinetic weapon damage increase tags:pve
+dimwishlist:item=2884596447&perks=3418782618,1546637391
+dimwishlist:item=2884596447&perks=3418782618,1354429876
+dimwishlist:item=2884596447&perks=3418782618,3891536761
+dimwishlist:item=2884596447&perks=3418782618,3078487919
+dimwishlist:item=2884596447&perks=3418782618,3744057135
+dimwishlist:item=2884596447&perks=3418782618,3418165135
+dimwishlist:item=2884596447&perks=3418782618,1549370717
+dimwishlist:item=2884596447&perks=3418782618,848860060
+dimwishlist:item=2884596447&perks=1563455254,1546637391
+dimwishlist:item=2884596447&perks=1563455254,1354429876
+dimwishlist:item=2884596447&perks=1563455254,3891536761
+dimwishlist:item=2884596447&perks=1563455254,3078487919
+dimwishlist:item=2884596447&perks=1563455254,3744057135
+dimwishlist:item=2884596447&perks=1563455254,3418165135
+dimwishlist:item=2884596447&perks=1563455254,1549370717
+dimwishlist:item=2884596447&perks=1563455254,848860060
+
+
 // Harsh Language (pve,god-pve)
 //notes: Best gun in the game No cap tags:pve,god-pve
 dimwishlist:item=2936850733&perks=3525010810,3032599245,2869569095
@@ -720,6 +836,44 @@ dimwishlist:item=3098328572&perks=776531651,2109543898
 //notes: Just the generic SMG roll for PVE. There are better builds specifically for build crafting but if you're not running a void subclass this would be perfect to use. tags:pve
 dimwishlist:item=3098328572&perks=4071163871,3708227201
 dimwishlist:item=3098328572&perks=4071163871,2109543898
+
+
+// Indebted Kindness (god-pve,pve)
+//notes: This weapon straight-up feels amazing to use and does fantastic damage. Perfect weapon for chunking majors, taking out shields, or just general add clear while being very ammo efficient with Lead from Gold making it a must-have for double special tags:god-pve,pve
+dimwishlist:item=3381450498&perks=3525010810,1087426260,1556840489,2173046394
+dimwishlist:item=3381450498&perks=3525010810,1087426260,1556840489,2428997981
+dimwishlist:item=3381450498&perks=3525010810,1087426260,1556840489,3673922083
+dimwishlist:item=3381450498&perks=3525010810,1087426260,2859149211,2173046394
+dimwishlist:item=3381450498&perks=3525010810,1087426260,2859149211,2428997981
+dimwishlist:item=3381450498&perks=3525010810,1087426260,2859149211,3673922083
+dimwishlist:item=3381450498&perks=3525010810,106909392,1556840489,2173046394
+dimwishlist:item=3381450498&perks=3525010810,106909392,1556840489,2428997981
+dimwishlist:item=3381450498&perks=3525010810,106909392,1556840489,3673922083
+dimwishlist:item=3381450498&perks=3525010810,106909392,2859149211,2173046394
+dimwishlist:item=3381450498&perks=3525010810,106909392,2859149211,2428997981
+dimwishlist:item=3381450498&perks=3525010810,106909392,2859149211,3673922083
+dimwishlist:item=3381450498&perks=3798852852,1087426260,1556840489,2173046394
+dimwishlist:item=3381450498&perks=3798852852,1087426260,1556840489,2428997981
+dimwishlist:item=3381450498&perks=3798852852,1087426260,1556840489,3673922083
+dimwishlist:item=3381450498&perks=3798852852,1087426260,2859149211,2173046394
+dimwishlist:item=3381450498&perks=3798852852,1087426260,2859149211,2428997981
+dimwishlist:item=3381450498&perks=3798852852,1087426260,2859149211,3673922083
+dimwishlist:item=3381450498&perks=3798852852,106909392,1556840489,2173046394
+dimwishlist:item=3381450498&perks=3798852852,106909392,1556840489,2428997981
+dimwishlist:item=3381450498&perks=3798852852,106909392,1556840489,3673922083
+dimwishlist:item=3381450498&perks=3798852852,106909392,2859149211,2173046394
+dimwishlist:item=3381450498&perks=3798852852,106909392,2859149211,2428997981
+dimwishlist:item=3381450498&perks=3798852852,106909392,2859149211,3673922083
+
+
+// Indebted Kindness (pve)
+//notes: This weapon straight-up feels amazing to use and does fantastic damage. Perfect weapon for chunking majors, taking out shields, or just general add clear while being very ammo efficient with Lead from Gold making it a must-have for double special tags:pve
+dimwishlist:item=3381450498&perks=2859149211,2428997981
+dimwishlist:item=3381450498&perks=2859149211,3993379141
+dimwishlist:item=3381450498&perks=2859149211,2173046394
+dimwishlist:item=3381450498&perks=1556840489,2428997981
+dimwishlist:item=3381450498&perks=1556840489,3993379141
+dimwishlist:item=3381450498&perks=1556840489,2173046394
 
 
 // Succession (god-pve,pve)
