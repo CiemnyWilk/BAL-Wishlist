@@ -1,6 +1,17 @@
 title:BAL Wishlist
 description:This is the Beyond All Legend Approved Wishlist
 
+// The Militia's Birthright (pve,god-pve)
+//notes: Kinetic slot auto-loading blinding GL, essentially infinite ammo, Adept Variant tags:pve,god-pve
+dimwishlist:item=40394833&perks=3798852852,3032599245,1556840489,3300816228
+dimwishlist:item=40394833&perks=3525010810,3032599245,1556840489,3300816228
+
+
+// The Militia's Birthright (pve)
+//notes: Kinetic slot auto-loading blinding GL, essentially infinite ammo, Adept Variant tags:pve
+dimwishlist:item=40394833&perks=3032599245,1556840489,3300816228
+
+
 // Hung Jury SR4 (god-pve,pve)
 //notes: Hung jury is a pick-your-own-adventure weapon as you can pair Kinetic Tremors with pretty much anything. I would recommend One For All but Explosive and FireFly Work too. tags:god-pve,pve
 dimwishlist:item=205225492&perks=1840239774,106909392,3891536761,4049631843
@@ -55,461 +66,6 @@ dimwishlist:item=243425374&perks=4104185692,3708227201
 //notes: Movement and utility, 100% keep, better animation for skating tags:pve
 dimwishlist:item=243425374&perks=2396489472,2077819806
 dimwishlist:item=243425374&perks=4104185692,2077819806
-
-
-// Forbearance ()
-//notes: Just get the craftable version.
-dimwishlist:item=-568611921&perks=
-
-
-// The Mountaintop (god-pve,pve)
-//notes: This is a perfect roll for if you want to treat your mountaintop as a primary weapon where you shoot into a group of ads for a kill to proc ambitious and also proc One For All for damage boost. tags:god-pve,pve
-dimwishlist:item=568611922&perks=981914802,3301904089,2010801679,4049631843
-dimwishlist:item=568611922&perks=981914802,3492396210,2010801679,4049631843
-
-
-// The Mountaintop (god-pve,pve)
-//notes: This is a perfect roll for dealing a huge chunk of damage to champs and other high-health enemies. You will want to build of recombination and by the time you have it ready auto-loading should have it loaded tags:god-pve,pve
-dimwishlist:item=568611922&perks=981914802,3301904089,3300816228,469285294
-dimwishlist:item=568611922&perks=981914802,3492396210,3300816228,469285294
-
-
-// The Mountaintop (pve)
-//notes: Roll for using Mountain Top as more of an ad-clear weapon where you proc ambitious for 2 rounds in the mag and One For All for damage. Aim to get hard launch and Spike/Implosion for perfect roll. tags:pve
-dimwishlist:item=568611922&perks=2010801679,4049631843
-
-
-// The Mountaintop (pve)
-//notes: Roll for taking a chunk out of Champs and other high-health enemies. Build up recombination then chunk them down while switching back to primary or heavy, auto-loading will have it ready for you the next time you need it. tags:pve
-dimwishlist:item=568611922&perks=3300816228,469285294
-
-
-// Edge Transit (god-pve,pve)
-//notes: DPS build for Edge Transit. This roll is only for damage and not meant for adclear but with it being A GL you can easily use it for adclear in a pinch. (Not the perfect god roll would be a shiny that has Envious so you can swap from Envious to Cascade for damage) tags:god-pve,pve
-dimwishlist:item=568611923&perks=981914802,3301904089,3751912585,3993379141
-dimwishlist:item=568611923&perks=981914802,3301904089,3751912585,3078487919
-dimwishlist:item=568611923&perks=981914802,3301904089,3751912585,3194351027
-
-
-// Edge Transit (god-pve,pve)
-//notes: Roll for AD clear if you want a GL for that. It is recommended to use a different weapon type of adclear like a machine gun but this is an option. tags:god-pve,pve
-dimwishlist:item=568611923&perks=981914802,3301904089,2396489472,3993379141
-dimwishlist:item=568611923&perks=981914802,3301904089,2396489472,3078487919
-dimwishlist:item=568611923&perks=981914802,3301904089,2396489472,3194351027
-
-
-// Edge Transit (pve)
-//notes: DPS build for Edge Transit. This roll is only for damage and not meant for adclear but with it being A GL you can easily use it for adclear in a pinch. (Not the perfect god roll would be a shiny that has Envious so you can swap from Envious to Cascade for damage) tags:pve
-dimwishlist:item=568611923&perks=3751912585,3993379141
-dimwishlist:item=568611923&perks=3751912585,3194351027
-dimwishlist:item=568611923&perks=3751912585,3078487919
-
-
-// Edge Transit (pve)
-//notes: Roll for AD clear if you want a GL for that. It is recommended to use a different weapon type of adclear like a machine gun but this is an option. tags:pve
-dimwishlist:item=568611923&perks=2396489472,3993379141
-dimwishlist:item=568611923&perks=2396489472,3078487919
-dimwishlist:item=568611923&perks=2396489472,3194351027
-
-
-// Succession ()
-//notes: Auto Dismantle, just get the craftable version.
-dimwishlist:item=-570866107&perks=
-
-
-// The Recluse (pve,god-pve)
-//notes: Repulsor Brace and Destabilizing Rounds can be a very deadly combo if paired with a strong void build. tags:pve,god-pve
-dimwishlist:item=1050806815&perks=1482024992,3230963543,776531651,2048641572
-
-
-// The Recluse (god-pve,pve)
-//notes: This roll can be deadly if paired with a void build that is good at debuffing enemies. tags:god-pve,pve
-dimwishlist:item=1050806815&perks=1482024992,3230963543,776531651,2109543898
-dimwishlist:item=1050806815&perks=1482024992,3230963543,776531651,3708227201
-
-
-// The Recluse (god-pve,pve)
-//notes: Just the generic SMG roll for PVE. There are better builds specifically for build crafting but if you're not running a void subclass this would be perfect to use. tags:god-pve,pve
-dimwishlist:item=1050806815&perks=1482024992,3230963543,4071163871,2109543898
-dimwishlist:item=1050806815&perks=1482024992,3230963543,4071163871,3708227201
-
-
-// The Recluse (pve)
-//notes: Repulsor Brace and Destabilizing Rounds can be a very deadly combo if paired with a strong void build. tags:pve
-dimwishlist:item=1050806815&perks=776531651,2048641572
-
-
-// The Recluse (pve)
-//notes: This roll can be deadly if paired with a void build that is good at debuffing enemies. tags:pve
-dimwishlist:item=1050806815&perks=776531651,3708227201
-dimwishlist:item=1050806815&perks=776531651,2109543898
-
-
-// The Recluse (pve)
-//notes: Just the generic SMG roll for PVE. There are better builds specifically for build crafting but if you're not running a void subclass this would be perfect to use. tags:pve
-dimwishlist:item=1050806815&perks=4071163871,3708227201
-dimwishlist:item=1050806815&perks=4071163871,2109543898
-
-
-// Hung Jury SR4 (god-pve,pve)
-//notes: Hung jury is a pick-your-own-adventure weapon as you can pair Kinetic Tremors with pretty much anything. I would recommend One For All but Explosive and FireFly Work too. tags:god-pve,pve
-dimwishlist:item=1453235079&perks=1840239774,106909392,3891536761,4049631843
-dimwishlist:item=1453235079&perks=1840239774,106909392,3891536761,3824105627
-dimwishlist:item=1453235079&perks=1840239774,106909392,3891536761,3038247973
-
-
-// Hung Jury SR4 (pve)
-//notes: Hung jury is a pick-your-own-adventure weapon as you can pair Kinetic Tremors with pretty much anything. I would recommend One For All but Explosive and FireFly Work too. tags:pve
-dimwishlist:item=1453235079&perks=3891536761,3038247973
-dimwishlist:item=1453235079&perks=3891536761,3824105627
-dimwishlist:item=1453235079&perks=3891536761,4049631843
-
-
-// Falling Guillotine (god-pve,pve)
-//notes: Hands down the highest DPS sword if you can get frenzy and surrounded procked the entire time. Otherwise, just use a better sword (Bequest). tags:god-pve,pve
-dimwishlist:item=1815105249&perks=3666208348,269888150,4104185692,3708227201
-
-
-// Falling Guillotine (god-pve,pve)
-//notes: Movement and Utility, 100% keep, better animation for skating tags:god-pve,pve
-dimwishlist:item=1815105249&perks=1261178282,269888150,2396489472,2077819806
-dimwishlist:item=1815105249&perks=1261178282,269888150,4104185692,2077819806
-
-
-// Falling Guillotine (pve)
-//notes: Only keep if you don't have a bequest. This weapon can only beat it in very specific circumstances and if it is a perfect god roll. tags:pve
-dimwishlist:item=1815105249&perks=4104185692,3708227201
-
-
-// Falling Guillotine (pve)
-//notes: Movement and utility, 100% keep, better animation for skating tags:pve
-dimwishlist:item=1815105249&perks=4104185692,2077819806
-dimwishlist:item=1815105249&perks=2396489472,2077819806
-
-
-// Hammerhead (god-pve,pve)
-//notes: Double Damage perk so you can delete those pesky ads in as few bullets as possible tags:god-pve,pve
-dimwishlist:item=1896309757&perks=839105230,1087426260,3425386926,557221067
-
-
-// Hammerhead (god-pve,pve)
-//notes: Fourth Time's The Charm pulls ammo out of thin air so this is good for when you won't have access to much heavy ammo tags:god-pve,pve
-dimwishlist:item=1896309757&perks=839105230,1087426260,1354429876,557221067
-
-
-// Hammerhead (pve)
-//notes: Double Damage perk so you can delete those pesky ads in as few bullets as possible tags:pve
-dimwishlist:item=1896309757&perks=3425386926,557221067
-
-
-// Hammerhead (pve)
-//notes: Fourth Time's The Charm pulls ammo out of thin air so this is good for when you won't have access to much heavy ammo tags:pve
-dimwishlist:item=1896309757&perks=1354429876,557221067
-
-
-// Edge Transit (god-pve,pve)
-//notes: Roll for AD clear if you want a GL for that. It is recommended to use a different weapon type of adclear like a machine gun but this is an option. tags:god-pve,pve
-dimwishlist:item=2228325504&perks=981914802,3301904089,3751912585,3993379141
-dimwishlist:item=2228325504&perks=981914802,3301904089,3751912585,3078487919
-dimwishlist:item=2228325504&perks=981914802,3301904089,3751912585,3194351027
-
-
-// Edge Transit (god-pve,pve)
-//notes: tags:god-pve,pve
-dimwishlist:item=2228325504&perks=981914802,3301904089,2396489472,3993379141
-dimwishlist:item=2228325504&perks=981914802,3301904089,2396489472,3078487919
-dimwishlist:item=2228325504&perks=981914802,3301904089,2396489472,3194351027
-
-
-// Edge Transit (pve)
-//notes: Roll for AD clear if you want a GL for that. It is recommended to use a different weapon type of adclear like a machine gun but this is an option. tags:pve
-dimwishlist:item=2228325504&perks=3751912585,3993379141
-dimwishlist:item=2228325504&perks=3751912585,3078487919
-dimwishlist:item=2228325504&perks=3751912585,3194351027
-
-
-// Edge Transit (pve)
-//notes: Roll for AD clear if you want a GL for that. It is recommended to use a different weapon type of adclear like a machine gun but this is an option. tags:pve
-dimwishlist:item=2228325504&perks=2396489472,3993379141
-dimwishlist:item=2228325504&perks=2396489472,3078487919
-dimwishlist:item=2228325504&perks=2396489472,3194351027
-
-
-// Blast Furnace (god-pve,pve)
-//notes: Aim for the One For All role especially if you will be using this while sitting back away from ADs. tags:god-pve,pve
-dimwishlist:item=2372514508&perks=1840239774,1087426260,3891536761,4049631843
-dimwishlist:item=2372514508&perks=1840239774,1087426260,3891536761,4104185692
-
-
-// Blast Furnace (pve)
-//notes: Aim for the One For All role especially if you will be using this while sitting back away from ADs. tags:pve
-dimwishlist:item=2372514508&perks=3891536761,4049631843
-dimwishlist:item=2372514508&perks=3891536761,4104185692
-
-
-// Elsie's Rifle (god-pve,pve)
-//notes: General use, great for void builds to provide over-shields & DR tags:god-pve,pve
-dimwishlist:item=2372514509&perks=839105230,679225683,776531651,4104185692
-
-
-// Elsie's Rifle (pve)
-//notes: Better options are available for primaries, pulse rifles aren't amazing for pve currently tags:pve
-dimwishlist:item=2372514509&perks=776531651,4104185692
-
-
-// Forbearance ()
-//notes: Just get the craftable version.
-dimwishlist:item=-2480074702&perks=
-
-
-// Midnight Coup (god-pve,pve)
-//notes: Run-of-the-mill hand hand cannon for PVE. tags:god-pve,pve
-dimwishlist:item=2499720827&perks=1840239774,1087426260,3038247973,3891536761
-dimwishlist:item=2499720827&perks=1840239774,1087426260,3824105627,3891536761
-
-
-// Midnight Coup (pve)
-//notes: Run-of-the-mill hand hand cannon for PVE. tags:pve
-dimwishlist:item=2499720827&perks=3824105627,3891536761
-dimwishlist:item=2499720827&perks=3038247973,3891536761
-
-
-// Blast Furnace (god-pve,pve)
-//notes: Aim for the One For All role especially if you will be using this while sitting back away from ADs. tags:god-pve,pve
-dimwishlist:item=2533990645&perks=1840239774,1087426260,3891536761,4049631843
-dimwishlist:item=2533990645&perks=1840239774,1087426260,3891536761,4104185692
-
-
-// Blast Furnace (pve)
-//notes: Aim for the One For All role especially if you will be using this while sitting back away from ADs. tags:pve
-dimwishlist:item=2533990645&perks=3891536761,4049631843
-dimwishlist:item=2533990645&perks=3891536761,4104185692
-
-
-// Midnight Coup (god-pve,pve)
-//notes: Run-of-the-mill hand hand cannon for PVE. tags:god-pve,pve
-dimwishlist:item=2763843898&perks=1840239774,1087426260,3824105627,3891536761
-dimwishlist:item=2763843898&perks=1840239774,1087426260,3038247973,3891536761
-
-
-// Midnight Coup (pve)
-//notes: Run-of-the-mill hand hand cannon for PVE. tags:pve
-dimwishlist:item=2763843898&perks=3824105627,3891536761
-dimwishlist:item=2763843898&perks=3038247973,3891536761
-
-
-// Luna's Howl (god-pve,pve)
-//notes: Great hand cannon for solar subs running Empyrean resto, heal clip offers fantastic survivability on all subs, and both mag howl & incan is useful tags:god-pve,pve
-dimwishlist:item=2763843899&perks=4090651448,1087426260,3828510309,2720533289
-dimwishlist:item=2763843899&perks=4090651448,1087426260,3828510309,4293542123
-dimwishlist:item=2763843899&perks=4090651448,1087426260,1820235745,2720533289
-dimwishlist:item=2763843899&perks=4090651448,1087426260,1820235745,4293542123
-dimwishlist:item=2763843899&perks=4090651448,1087426260,3017780555,2720533289
-dimwishlist:item=2763843899&perks=4090651448,1087426260,3017780555,4293542123
-
-
-// Luna's Howl (pve)
-//notes: General use primary, mag howl offers good damage and has a higher base ae compared to other 140s tags:pve
-dimwishlist:item=2763843899&perks=3828510309,2720533289
-dimwishlist:item=2763843899&perks=3828510309,4293542123
-dimwishlist:item=2763843899&perks=3017780555,2720533289
-dimwishlist:item=2763843899&perks=3017780555,4293542123
-dimwishlist:item=2763843899&perks=1820235745,2720533289
-dimwishlist:item=2763843899&perks=1820235745,4293542123
-
-
-// The Recluse (god-pve,pve)
-//notes: Repulsor Brace and Destabilizing Rounds can be a very deadly combo if paired with a strong void build. tags:god-pve,pve
-dimwishlist:item=3098328572&perks=1482024992,3230963543,776531651,2048641572
-
-
-// The Recluse (god-pve,pve)
-//notes: This roll can be deadly if paired with a void build that is good at debuffing enemies. tags:god-pve,pve
-dimwishlist:item=3098328572&perks=1482024992,3230963543,776531651,3708227201
-dimwishlist:item=3098328572&perks=1482024992,3230963543,776531651,2109543898
-
-
-// The Recluse (god-pve,pve)
-//notes: Just the generic SMG roll for PVE. There are better builds specifically for build crafting but if you're not running a void subclass this would be perfect to use. tags:god-pve,pve
-dimwishlist:item=3098328572&perks=1482024992,3230963543,4071163871,3708227201
-dimwishlist:item=3098328572&perks=1482024992,3230963543,4071163871,2109543898
-
-
-// The Recluse (pve)
-//notes: Repulsor Brace and Destabilizing Rounds can be a very deadly combo if paired with a strong void build. tags:pve
-dimwishlist:item=3098328572&perks=776531651,2048641572
-
-
-// The Recluse (pve)
-//notes: This roll can be deadly if paired with a void build that is good at debuffing enemies. tags:pve
-dimwishlist:item=3098328572&perks=776531651,3708227201
-dimwishlist:item=3098328572&perks=776531651,2109543898
-
-
-// The Recluse (pve)
-//notes: Just the generic SMG roll for PVE. There are better builds specifically for build crafting but if you're not running a void subclass this would be perfect to use. tags:pve
-dimwishlist:item=3098328572&perks=4071163871,3708227201
-dimwishlist:item=3098328572&perks=4071163871,2109543898
-
-
-// Succession ()
-//notes: Auto Dismantle, just get the craftable version.
-dimwishlist:item=-3612338554&perks=
-
-
-// Luna's Howl (god-pve,pve)
-//notes: Great hand cannon for solar subs running Empyrean resto, heal clip offers fantastic survivability on all subs, and both mag howl & incan is useful tags:god-pve,pve
-dimwishlist:item=3757612024&perks=4090651448,1087426260,3017780555,2720533289
-dimwishlist:item=3757612024&perks=4090651448,1087426260,3017780555,4293542123
-dimwishlist:item=3757612024&perks=4090651448,1087426260,1820235745,2720533289
-dimwishlist:item=3757612024&perks=4090651448,1087426260,1820235745,4293542123
-dimwishlist:item=3757612024&perks=4090651448,1087426260,3828510309,2720533289
-dimwishlist:item=3757612024&perks=4090651448,1087426260,3828510309,4293542123
-
-
-// Luna's Howl (pve)
-//notes: General use primary, mag howl offers good damage and has a higher base ae compared to other 140s tags:pve
-dimwishlist:item=3757612024&perks=3828510309,2720533289
-dimwishlist:item=3757612024&perks=3828510309,4293542123
-dimwishlist:item=3757612024&perks=3017780555,2720533289
-dimwishlist:item=3757612024&perks=3017780555,4293542123
-dimwishlist:item=3757612024&perks=1820235745,2720533289
-dimwishlist:item=3757612024&perks=1820235745,4293542123
-
-
-// Elsie's Rifle (god-pve,pve)
-//notes: General use, great for void builds to provide over-shields & DR tags:god-pve,pve
-dimwishlist:item=3851176026&perks=839105230,679225683,776531651,4104185692
-
-
-// Elsie's Rifle (pve)
-//notes: Better options are available for primaries, pulse rifles aren't amazing for pve currently tags:pve
-dimwishlist:item=3851176026&perks=776531651,4104185692
-
-
-// The Mountaintop (god-pve,pve)
-//notes: This is a perfect roll for if you want to treat your mountaintop as a primary weapon where you shoot into a group of ads for a kill to proc ambitious and also proc One For All for damage boost. tags:god-pve,pve
-dimwishlist:item=4043921923&perks=981914802,3301904089,2010801679,4049631843
-dimwishlist:item=4043921923&perks=981914802,3492396210,2010801679,4049631843
-
-
-// The Mountaintop (god-pve,pve)
-//notes: This is a perfect roll for dealing a huge chunk of damage to champs and other high-health enemies. You will want to build of recombination and by the time you have it ready auto-loading should have it loaded tags:god-pve,pve
-dimwishlist:item=4043921923&perks=981914802,3301904089,3300816228,469285294
-dimwishlist:item=4043921923&perks=981914802,3492396210,3300816228,469285294
-
-
-// The Mountaintop (pve)
-//notes: Roll for using Mountain Top as more of an ad-clear weapon where you proc ambitious for 2 rounds in the mag and One For All for damage. Aim to get hard launch and Spike/Implosion for perfect roll. tags:pve
-dimwishlist:item=4043921923&perks=2010801679,4049631843
-
-
-// The Mountaintop (pve)
-//notes: Roll for taking a chunk out of Champs and other high-health enemies. Build up recombination then chunk them down while switching back to primary or heavy, auto-loading will have it ready for you the next time you need it. tags:pve
-dimwishlist:item=4043921923&perks=3300816228,469285294
-
-
-// Salvager's Salvo (pve,god-pve)
-//notes: The OG top dawg, great for both add clear and damage. tags:pve,god-pve
-dimwishlist:item=2060863616&perks=3525010810,3301904089,2010801679,1546637391
-dimwishlist:item=2060863616&perks=3525010810,3301904089,2010801679,2396489472
-dimwishlist:item=2060863616&perks=3525010810,3301904089,3523296417,1546637391
-dimwishlist:item=2060863616&perks=3525010810,3301904089,3523296417,2396489472
-
-
-// Tusk of the Boar (god-pve,pve)
-//notes: Insane strand utility with sever and hatchling, deconstruct offers tons of free ammo so long as you hit three enemies somewhat quickly, and enlightened action, slideways, and chain reaction all offer their unique benefits as well tags:god-pve,pve
-dimwishlist:item=1218113510&perks=3525010810,2822142346,923806249,2396489472
-dimwishlist:item=1218113510&perks=3525010810,2822142346,923806249,831391274
-dimwishlist:item=1218113510&perks=3525010810,2822142346,923806249,3993379141
-dimwishlist:item=1218113510&perks=3525010810,2822142346,3828510309,2396489472
-dimwishlist:item=1218113510&perks=3525010810,2822142346,3828510309,831391274
-dimwishlist:item=1218113510&perks=3525010810,2822142346,3828510309,3993379141
-dimwishlist:item=1218113510&perks=3525010810,2822142346,2039302152,2396489472
-dimwishlist:item=1218113510&perks=3525010810,2822142346,2039302152,831391274
-dimwishlist:item=1218113510&perks=3525010810,2822142346,2039302152,3993379141
-dimwishlist:item=1218113510&perks=3798852852,2822142346,923806249,2396489472
-dimwishlist:item=1218113510&perks=3798852852,2822142346,923806249,831391274
-dimwishlist:item=1218113510&perks=3798852852,2822142346,923806249,3993379141
-dimwishlist:item=1218113510&perks=3798852852,2822142346,3828510309,2396489472
-dimwishlist:item=1218113510&perks=3798852852,2822142346,3828510309,831391274
-dimwishlist:item=1218113510&perks=3798852852,2822142346,3828510309,3993379141
-dimwishlist:item=1218113510&perks=3798852852,2822142346,2039302152,2396489472
-dimwishlist:item=1218113510&perks=3798852852,2822142346,2039302152,831391274
-dimwishlist:item=1218113510&perks=3798852852,2822142346,2039302152,3993379141
-
-
-
-// Tusk of the Boar (pve)
-//notes: Insane strand utility with sever and hatchling, deconstruct offers tons of free ammo so long as you hit three enemies somewhat quickly, and enlightened action, slideways, and chain reaction all offer their unique benefits as well tags:pve
-dimwishlist:item=1218113510&perks=923806249,831391274
-dimwishlist:item=1218113510&perks=923806249,2396489472
-dimwishlist:item=1218113510&perks=923806249,3993379141
-dimwishlist:item=1218113510&perks=2039302152,831391274
-dimwishlist:item=1218113510&perks=2039302152,2396489472
-dimwishlist:item=1218113510&perks=2039302152,3993379141
-dimwishlist:item=1218113510&perks=3828510309,831391274
-dimwishlist:item=1218113510&perks=3828510309,2396489472
-dimwishlist:item=1218113510&perks=3828510309,3993379141
-
-
-// Wild Style (Adept) ()
-//notes: The biggest disappointment in all of GL history
-dimwishlist:item=959037361&perks=981914802,3492396210,1583705720,3708227201
-dimwishlist:item=959037361&perks=981914802,3492396210,1583705720,4049631843
-dimwishlist:item=959037361&perks=981914802,3492396210,3828510309,3708227201
-dimwishlist:item=959037361&perks=981914802,3492396210,3828510309,4049631843
-dimwishlist:item=959037361&perks=981914802,3301904089,1583705720,3708227201
-dimwishlist:item=959037361&perks=981914802,3301904089,1583705720,4049631843
-dimwishlist:item=959037361&perks=981914802,3301904089,3828510309,3708227201
-dimwishlist:item=959037361&perks=981914802,3301904089,3828510309,4049631843
-dimwishlist:item=-959037361
-
-
-// Wild Style ()
-//notes: The biggest disappointment in all of GL history
-dimwishlist:item=1332123064&perks=981914802,3301904089,3828510309,3708227201
-dimwishlist:item=1332123064&perks=981914802,3301904089,3828510309,4049631843
-dimwishlist:item=1332123064&perks=981914802,3301904089,1583705720,3708227201
-dimwishlist:item=1332123064&perks=981914802,3301904089,1583705720,4049631843
-dimwishlist:item=1332123064&perks=981914802,3492396210,3828510309,3708227201
-dimwishlist:item=1332123064&perks=981914802,3492396210,3828510309,4049631843
-dimwishlist:item=1332123064&perks=981914802,3492396210,1583705720,3708227201
-dimwishlist:item=1332123064&perks=981914802,3492396210,1583705720,4049631843
-dimwishlist:item=-1332123064
-
-
-// Wilderflight (god-pve,pve)
-//notes: Wilderflight is currently the best special GL for boss damage due to being a doublefire GL, and having access to auto-loading, unlike Wildstyle. Its most applicable use case is swap dps load-outs, or for proccing bait and switch. tags:god-pve,pve
-dimwishlist:item=2306182339&perks=981914802,3492396210,3300816228,1546637391
-dimwishlist:item=2306182339&perks=981914802,3492396210,3300816228,4104185692
-dimwishlist:item=2306182339&perks=981914802,3492396210,3523296417,1546637391
-dimwishlist:item=2306182339&perks=981914802,3492396210,3523296417,4104185692
-dimwishlist:item=2306182339&perks=981914802,3301904089,3300816228,1546637391
-dimwishlist:item=2306182339&perks=981914802,3301904089,3300816228,4104185692
-dimwishlist:item=2306182339&perks=981914802,3301904089,3523296417,1546637391
-dimwishlist:item=2306182339&perks=981914802,3301904089,3523296417,4104185692
-
-
-// Wilderflight (pve)
-//notes: Wilderflight is currently the best special GL for boss damage due to being a doublefire GL, and having access to auto-loading, unlike Wildstyle. Its most applicable use case is swap dps load-outs, or for proccing bait and switch. tags:pve
-dimwishlist:item=2306182339&perks=3300816228,1546637391
-dimwishlist:item=2306182339&perks=3300816228,4104185692
-dimwishlist:item=2306182339&perks=3523296417,1546637391
-dimwishlist:item=2306182339&perks=3523296417,4104185692
-
-
-title:Temp
-
-// The Militia's Birthright (pve,god-pve)
-//notes: Kinetic slot auto-loading blinding GL, essentially infinite ammo, Adept Variant tags:pve,god-pve
-dimwishlist:item=40394833&perks=3798852852,3032599245,1556840489,3300816228
-dimwishlist:item=40394833&perks=3525010810,3032599245,1556840489,3300816228
-
-
-// The Militia's Birthright (pve)
-//notes: Kinetic slot auto-loading blinding GL, essentially infinite ammo, Adept Variant tags:pve
-dimwishlist:item=40394833&perks=3032599245,1556840489,3300816228
 
 
 // Prodigal Return (pve,god-pve)
@@ -643,6 +199,71 @@ dimwishlist:item=304659313&perks=3032599245,3161816588,1546637391
 
 
 // Forbearance (god-pve,pve)
+//notes: The Forbearance roll if you don't have it crafted tags:god-pve,pve
+dimwishlist:item=568611921&perks=3525010810,2822142346,2010801679,2396489472
+
+
+// Forbearance (pve)
+//notes: The roll if you don't have it crafted quite yet tags:pve
+dimwishlist:item=568611921&perks=2010801679,2396489472
+
+
+// The Mountaintop (god-pve,pve)
+//notes: This is a perfect roll for if you want to treat your mountaintop as a primary weapon where you shoot into a group of ads for a kill to proc ambitious and also proc One For All for damage boost. tags:god-pve,pve
+dimwishlist:item=568611922&perks=981914802,3301904089,2010801679,4049631843
+dimwishlist:item=568611922&perks=981914802,3492396210,2010801679,4049631843
+
+
+// The Mountaintop (god-pve,pve)
+//notes: This is a perfect roll for dealing a huge chunk of damage to champs and other high-health enemies. You will want to build of recombination and by the time you have it ready auto-loading should have it loaded tags:god-pve,pve
+dimwishlist:item=568611922&perks=981914802,3301904089,3300816228,469285294
+dimwishlist:item=568611922&perks=981914802,3492396210,3300816228,469285294
+
+
+// The Mountaintop (pve)
+//notes: Roll for using Mountain Top as more of an ad-clear weapon where you proc ambitious for 2 rounds in the mag and One For All for damage. Aim to get hard launch and Spike/Implosion for perfect roll. tags:pve
+dimwishlist:item=568611922&perks=2010801679,4049631843
+
+
+// The Mountaintop (pve)
+//notes: Roll for taking a chunk out of Champs and other high-health enemies. Build up recombination then chunk them down while switching back to primary or heavy, auto-loading will have it ready for you the next time you need it. tags:pve
+dimwishlist:item=568611922&perks=3300816228,469285294
+
+
+// Edge Transit (god-pve,pve)
+//notes: DPS build for Edge Transit. This roll is only for damage and not meant for adclear but with it being A GL you can easily use it for adclear in a pinch. (Not the perfect god roll would be a shiny that has Envious so you can swap from Envious to Cascade for damage) tags:god-pve,pve
+dimwishlist:item=568611923&perks=981914802,3301904089,3751912585,3993379141
+dimwishlist:item=568611923&perks=981914802,3301904089,3751912585,3078487919
+dimwishlist:item=568611923&perks=981914802,3301904089,3751912585,3194351027
+
+
+// Edge Transit (god-pve,pve)
+//notes: Roll for AD clear if you want a GL for that. It is recommended to use a different weapon type of adclear like a machine gun but this is an option. tags:god-pve,pve
+dimwishlist:item=568611923&perks=981914802,3301904089,2396489472,3993379141
+dimwishlist:item=568611923&perks=981914802,3301904089,2396489472,3078487919
+dimwishlist:item=568611923&perks=981914802,3301904089,2396489472,3194351027
+
+
+// Edge Transit (pve)
+//notes: DPS build for Edge Transit. This roll is only for damage and not meant for adclear but with it being A GL you can easily use it for adclear in a pinch. (Not the perfect god roll would be a shiny that has Envious so you can swap from Envious to Cascade for damage) tags:pve
+dimwishlist:item=568611923&perks=3751912585,3993379141
+dimwishlist:item=568611923&perks=3751912585,3194351027
+dimwishlist:item=568611923&perks=3751912585,3078487919
+
+
+// Edge Transit (pve)
+//notes: Roll for AD clear if you want a GL for that. It is recommended to use a different weapon type of adclear like a machine gun but this is an option. tags:pve
+dimwishlist:item=568611923&perks=2396489472,3993379141
+dimwishlist:item=568611923&perks=2396489472,3078487919
+dimwishlist:item=568611923&perks=2396489472,3194351027
+
+
+// Succession ()
+//notes: Auto Dismantle, just get the craftable version.
+dimwishlist:item=570866107&perks=
+
+
+// Forbearance (god-pve,pve)
 //notes: The roll for forbearance. tags:god-pve,pve
 dimwishlist:item=613334176&perks=3525010810,2822142346,2010801679,598607952
 dimwishlist:item=613334176&perks=3525010810,2822142346,2010801679,2396489472
@@ -717,6 +338,40 @@ dimwishlist:item=672957262&perks=1583705720,4049631843
 dimwishlist:item=672957262&perks=1583705720,2173046394
 
 
+// The Recluse (pve,god-pve)
+//notes: Repulsor Brace and Destabilizing Rounds can be a very deadly combo if paired with a strong void build. tags:pve,god-pve
+dimwishlist:item=1050806815&perks=1482024992,3230963543,776531651,2048641572
+
+
+// The Recluse (god-pve,pve)
+//notes: This roll can be deadly if paired with a void build that is good at debuffing enemies. tags:god-pve,pve
+dimwishlist:item=1050806815&perks=1482024992,3230963543,776531651,2109543898
+dimwishlist:item=1050806815&perks=1482024992,3230963543,776531651,3708227201
+
+
+// The Recluse (god-pve,pve)
+//notes: Just the generic SMG roll for PVE. There are better builds specifically for build crafting but if you're not running a void subclass this would be perfect to use. tags:god-pve,pve
+dimwishlist:item=1050806815&perks=1482024992,3230963543,4071163871,2109543898
+dimwishlist:item=1050806815&perks=1482024992,3230963543,4071163871,3708227201
+
+
+// The Recluse (pve)
+//notes: Repulsor Brace and Destabilizing Rounds can be a very deadly combo if paired with a strong void build. tags:pve
+dimwishlist:item=1050806815&perks=776531651,2048641572
+
+
+// The Recluse (pve)
+//notes: This roll can be deadly if paired with a void build that is good at debuffing enemies. tags:pve
+dimwishlist:item=1050806815&perks=776531651,3708227201
+dimwishlist:item=1050806815&perks=776531651,2109543898
+
+
+// The Recluse (pve)
+//notes: Just the generic SMG roll for PVE. There are better builds specifically for build crafting but if you're not running a void subclass this would be perfect to use. tags:pve
+dimwishlist:item=1050806815&perks=4071163871,3708227201
+dimwishlist:item=1050806815&perks=4071163871,2109543898
+
+
 // New Pacific Epitaph (god-pve,pve)
 //notes: Demo + Adrenaline offers a fantastic add-clear combo for grenade spam & high damage, but redirection also offers more consistent chunking on any majors you also happen to hit tags:god-pve,pve
 dimwishlist:item=1125217994&perks=3525010810,2822142346,3523296417,11612903
@@ -763,6 +418,20 @@ dimwishlist:item=1151688091&perks=2010801679,4049631843
 dimwishlist:item=1151688091&perks=2010801679,2173046394
 
 
+// Hung Jury SR4 (god-pve,pve)
+//notes: Hung jury is a pick-your-own-adventure weapon as you can pair Kinetic Tremors with pretty much anything. I would recommend One For All but Explosive and FireFly Work too. tags:god-pve,pve
+dimwishlist:item=1453235079&perks=1840239774,106909392,3891536761,4049631843
+dimwishlist:item=1453235079&perks=1840239774,106909392,3891536761,3824105627
+dimwishlist:item=1453235079&perks=1840239774,106909392,3891536761,3038247973
+
+
+// Hung Jury SR4 (pve)
+//notes: Hung jury is a pick-your-own-adventure weapon as you can pair Kinetic Tremors with pretty much anything. I would recommend One For All but Explosive and FireFly Work too. tags:pve
+dimwishlist:item=1453235079&perks=3891536761,3038247973
+dimwishlist:item=1453235079&perks=3891536761,3824105627
+dimwishlist:item=1453235079&perks=3891536761,4049631843
+
+
 // Harsh Language (god-pve,pve)
 //notes: Wellspring allows for great ability regen, being on a wave frame, and column 4 is mostly up to preference. Repulsor Brace offers more survivability for void builds but Destabilizing Rounds are great for ad clear tags:god-pve,pve
 dimwishlist:item=1606497639&perks=3525010810,2822142346,3592538738,2048641572
@@ -806,6 +475,28 @@ dimwishlist:item=1606497639&perks=1583705720,2048641572
 dimwishlist:item=1606497639&perks=1583705720,776531651
 
 
+// Falling Guillotine (god-pve,pve)
+//notes: Hands down the highest DPS sword if you can get frenzy and surrounded procked the entire time. Otherwise, just use a better sword (Bequest). tags:god-pve,pve
+dimwishlist:item=1815105249&perks=3666208348,269888150,4104185692,3708227201
+
+
+// Falling Guillotine (god-pve,pve)
+//notes: Movement and Utility, 100% keep, better animation for skating tags:god-pve,pve
+dimwishlist:item=1815105249&perks=1261178282,269888150,2396489472,2077819806
+dimwishlist:item=1815105249&perks=1261178282,269888150,4104185692,2077819806
+
+
+// Falling Guillotine (pve)
+//notes: Only keep if you don't have a bequest. This weapon can only beat it in very specific circumstances and if it is a perfect god roll. tags:pve
+dimwishlist:item=1815105249&perks=4104185692,3708227201
+
+
+// Falling Guillotine (pve)
+//notes: Movement and utility, 100% keep, better animation for skating tags:pve
+dimwishlist:item=1815105249&perks=4104185692,2077819806
+dimwishlist:item=1815105249&perks=2396489472,2077819806
+
+
 // The Militia's Birthright (god-pve,pve)
 //notes: Kinetic slot auto-loading blinding GL, essentially infinite ammo, Adept Variant tags:god-pve,pve
 dimwishlist:item=1854753405&perks=3798852852,3032599245,1556840489,3300816228
@@ -815,6 +506,26 @@ dimwishlist:item=1854753405&perks=3525010810,3032599245,1556840489,3300816228
 // The Militia's Birthright (pve)
 //notes: Kinetic slot auto-loading blinding GL, essentially infinite ammo, Adept Variant tags:pve
 dimwishlist:item=1854753405&perks=3032599245,1556840489,3300816228
+
+
+// Hammerhead (god-pve,pve)
+//notes: Double Damage perk so you can delete those pesky ads in as few bullets as possible tags:god-pve,pve
+dimwishlist:item=1896309757&perks=839105230,1087426260,3425386926,557221067
+
+
+// Hammerhead (god-pve,pve)
+//notes: Fourth Time's The Charm pulls ammo out of thin air so this is good for when you won't have access to much heavy ammo tags:god-pve,pve
+dimwishlist:item=1896309757&perks=839105230,1087426260,1354429876,557221067
+
+
+// Hammerhead (pve)
+//notes: Double Damage perk so you can delete those pesky ads in as few bullets as possible tags:pve
+dimwishlist:item=1896309757&perks=3425386926,557221067
+
+
+// Hammerhead (pve)
+//notes: Fourth Time's The Charm pulls ammo out of thin air so this is good for when you won't have access to much heavy ammo tags:pve
+dimwishlist:item=1896309757&perks=1354429876,557221067
 
 
 // Truthteller (pve,god-pve)
@@ -845,6 +556,56 @@ dimwishlist:item=2026087437&perks=3032599245,3300816228,3523296417
 dimwishlist:item=2026087437&perks=3032599245,3300816228,2978966579
 
 
+// Edge Transit (god-pve,pve)
+//notes: Roll for AD clear if you want a GL for that. It is recommended to use a different weapon type of adclear like a machine gun but this is an option. tags:god-pve,pve
+dimwishlist:item=2228325504&perks=981914802,3301904089,3751912585,3993379141
+dimwishlist:item=2228325504&perks=981914802,3301904089,3751912585,3078487919
+dimwishlist:item=2228325504&perks=981914802,3301904089,3751912585,3194351027
+
+
+// Edge Transit (god-pve,pve)
+//notes: tags:god-pve,pve
+dimwishlist:item=2228325504&perks=981914802,3301904089,2396489472,3993379141
+dimwishlist:item=2228325504&perks=981914802,3301904089,2396489472,3078487919
+dimwishlist:item=2228325504&perks=981914802,3301904089,2396489472,3194351027
+
+
+// Edge Transit (pve)
+//notes: Roll for AD clear if you want a GL for that. It is recommended to use a different weapon type of adclear like a machine gun but this is an option. tags:pve
+dimwishlist:item=2228325504&perks=3751912585,3993379141
+dimwishlist:item=2228325504&perks=3751912585,3078487919
+dimwishlist:item=2228325504&perks=3751912585,3194351027
+
+
+// Edge Transit (pve)
+//notes: Roll for AD clear if you want a GL for that. It is recommended to use a different weapon type of adclear like a machine gun but this is an option. tags:pve
+dimwishlist:item=2228325504&perks=2396489472,3993379141
+dimwishlist:item=2228325504&perks=2396489472,3078487919
+dimwishlist:item=2228325504&perks=2396489472,3194351027
+
+
+// Blast Furnace (god-pve,pve)
+//notes: Aim for the One For All role especially if you will be using this while sitting back away from ADs. tags:god-pve,pve
+dimwishlist:item=2372514508&perks=1840239774,1087426260,3891536761,4049631843
+dimwishlist:item=2372514508&perks=1840239774,1087426260,3891536761,4104185692
+
+
+// Blast Furnace (pve)
+//notes: Aim for the One For All role especially if you will be using this while sitting back away from ADs. tags:pve
+dimwishlist:item=2372514508&perks=3891536761,4049631843
+dimwishlist:item=2372514508&perks=3891536761,4104185692
+
+
+// Elsie's Rifle (god-pve,pve)
+//notes: General use, great for void builds to provide over-shields & DR tags:god-pve,pve
+dimwishlist:item=2372514509&perks=839105230,679225683,776531651,4104185692
+
+
+// Elsie's Rifle (pve)
+//notes: Better options are available for primaries, pulse rifles aren't amazing for pve currently tags:pve
+dimwishlist:item=2372514509&perks=776531651,4104185692
+
+
 // The Militia's Birthright (Adept) (god-pve,pve)
 //notes: Kinetic slot auto-loading blinding GL, essentially infinite ammo, Adept Variant tags:god-pve,pve
 dimwishlist:item=2378101424&perks=3798852852,3032599245,1556840489,3300816228
@@ -856,9 +617,139 @@ dimwishlist:item=2378101424&perks=3525010810,3032599245,1556840489,3300816228
 dimwishlist:item=2378101424&perks=3032599245,1556840489,3300816228
 
 
+// Forbearance (god-pve,pve)
+//notes: The roll if you don't have it crafted yet tags:god-pve,pve
+dimwishlist:item=2480074702&perks=3525010810,2822142346,2010801679,2396489472
+
+
+// Forbearance (pve)
+//notes: The Roll for if you don't have it crafted yet tags:pve
+dimwishlist:item=2480074702&perks=2010801679,2396489472
+
+
+// Midnight Coup (god-pve,pve)
+//notes: Run-of-the-mill hand hand cannon for PVE. tags:god-pve,pve
+dimwishlist:item=2499720827&perks=1840239774,1087426260,3038247973,3891536761
+dimwishlist:item=2499720827&perks=1840239774,1087426260,3824105627,3891536761
+
+
+// Midnight Coup (pve)
+//notes: Run-of-the-mill hand hand cannon for PVE. tags:pve
+dimwishlist:item=2499720827&perks=3824105627,3891536761
+dimwishlist:item=2499720827&perks=3038247973,3891536761
+
+
+// Blast Furnace (god-pve,pve)
+//notes: Aim for the One For All role especially if you will be using this while sitting back away from ADs. tags:god-pve,pve
+dimwishlist:item=2533990645&perks=1840239774,1087426260,3891536761,4049631843
+dimwishlist:item=2533990645&perks=1840239774,1087426260,3891536761,4104185692
+
+
+// Blast Furnace (pve)
+//notes: Aim for the One For All role especially if you will be using this while sitting back away from ADs. tags:pve
+dimwishlist:item=2533990645&perks=3891536761,4049631843
+dimwishlist:item=2533990645&perks=3891536761,4104185692
+
+
+// Midnight Coup (god-pve,pve)
+//notes: Run-of-the-mill hand hand cannon for PVE. tags:god-pve,pve
+dimwishlist:item=2763843898&perks=1840239774,1087426260,3824105627,3891536761
+dimwishlist:item=2763843898&perks=1840239774,1087426260,3038247973,3891536761
+
+
+// Midnight Coup (pve)
+//notes: Run-of-the-mill hand hand cannon for PVE. tags:pve
+dimwishlist:item=2763843898&perks=3824105627,3891536761
+dimwishlist:item=2763843898&perks=3038247973,3891536761
+
+
+// Luna's Howl (god-pve,pve)
+//notes: Great hand cannon for solar subs running Empyrean resto, heal clip offers fantastic survivability on all subs, and both mag howl & incan is useful tags:god-pve,pve
+dimwishlist:item=2763843899&perks=4090651448,1087426260,3828510309,2720533289
+dimwishlist:item=2763843899&perks=4090651448,1087426260,3828510309,4293542123
+dimwishlist:item=2763843899&perks=4090651448,1087426260,1820235745,2720533289
+dimwishlist:item=2763843899&perks=4090651448,1087426260,1820235745,4293542123
+dimwishlist:item=2763843899&perks=4090651448,1087426260,3017780555,2720533289
+dimwishlist:item=2763843899&perks=4090651448,1087426260,3017780555,4293542123
+
+
+// Luna's Howl (pve)
+//notes: General use primary, mag howl offers good damage and has a higher base ae compared to other 140s tags:pve
+dimwishlist:item=2763843899&perks=3828510309,2720533289
+dimwishlist:item=2763843899&perks=3828510309,4293542123
+dimwishlist:item=2763843899&perks=3017780555,2720533289
+dimwishlist:item=2763843899&perks=3017780555,4293542123
+dimwishlist:item=2763843899&perks=1820235745,2720533289
+dimwishlist:item=2763843899&perks=1820235745,4293542123
+
+
 // Harsh Language (pve,god-pve)
 //notes: Best gun in the game No cap tags:pve,god-pve
 dimwishlist:item=2936850733&perks=3525010810,3032599245,2869569095
+
+
+// The Recluse (god-pve,pve)
+//notes: Repulsor Brace and Destabilizing Rounds can be a very deadly combo if paired with a strong void build. tags:god-pve,pve
+dimwishlist:item=3098328572&perks=1482024992,3230963543,776531651,2048641572
+
+
+// The Recluse (god-pve,pve)
+//notes: This roll can be deadly if paired with a void build that is good at debuffing enemies. tags:god-pve,pve
+dimwishlist:item=3098328572&perks=1482024992,3230963543,776531651,3708227201
+dimwishlist:item=3098328572&perks=1482024992,3230963543,776531651,2109543898
+
+
+// The Recluse (god-pve,pve)
+//notes: Just the generic SMG roll for PVE. There are better builds specifically for build crafting but if you're not running a void subclass this would be perfect to use. tags:god-pve,pve
+dimwishlist:item=3098328572&perks=1482024992,3230963543,4071163871,3708227201
+dimwishlist:item=3098328572&perks=1482024992,3230963543,4071163871,2109543898
+
+
+// The Recluse (pve)
+//notes: Repulsor Brace and Destabilizing Rounds can be a very deadly combo if paired with a strong void build. tags:pve
+dimwishlist:item=3098328572&perks=776531651,2048641572
+
+
+// The Recluse (pve)
+//notes: This roll can be deadly if paired with a void build that is good at debuffing enemies. tags:pve
+dimwishlist:item=3098328572&perks=776531651,3708227201
+dimwishlist:item=3098328572&perks=776531651,2109543898
+
+
+// The Recluse (pve)
+//notes: Just the generic SMG roll for PVE. There are better builds specifically for build crafting but if you're not running a void subclass this would be perfect to use. tags:pve
+dimwishlist:item=3098328572&perks=4071163871,3708227201
+dimwishlist:item=3098328572&perks=4071163871,2109543898
+
+
+// Succession (god-pve,pve)
+//notes: The roll for Succession for if you don't have it crafted yet tags:god-pve,pve
+dimwishlist:item=3612338554&perks=1840239774,106909392,1523832109,469285294
+
+
+// Succession (pve)
+//notes: The roll if you don't have it crafted yet tags:pve
+dimwishlist:item=3612338554&perks=1523832109,469285294
+
+
+// Luna's Howl (god-pve,pve)
+//notes: Great hand cannon for solar subs running Empyrean resto, heal clip offers fantastic survivability on all subs, and both mag howl & incan is useful tags:god-pve,pve
+dimwishlist:item=3757612024&perks=4090651448,1087426260,3017780555,2720533289
+dimwishlist:item=3757612024&perks=4090651448,1087426260,3017780555,4293542123
+dimwishlist:item=3757612024&perks=4090651448,1087426260,1820235745,2720533289
+dimwishlist:item=3757612024&perks=4090651448,1087426260,1820235745,4293542123
+dimwishlist:item=3757612024&perks=4090651448,1087426260,3828510309,2720533289
+dimwishlist:item=3757612024&perks=4090651448,1087426260,3828510309,4293542123
+
+
+// Luna's Howl (pve)
+//notes: General use primary, mag howl offers good damage and has a higher base ae compared to other 140s tags:pve
+dimwishlist:item=3757612024&perks=3828510309,2720533289
+dimwishlist:item=3757612024&perks=3828510309,4293542123
+dimwishlist:item=3757612024&perks=3017780555,2720533289
+dimwishlist:item=3757612024&perks=3017780555,4293542123
+dimwishlist:item=3757612024&perks=1820235745,2720533289
+dimwishlist:item=3757612024&perks=1820235745,4293542123
 
 
 // Pardon Our Dust (god-pve,pve)
@@ -917,6 +808,16 @@ dimwishlist:item=3849810018&perks=3032599245,3528046508,1906147653
 dimwishlist:item=3849810018&perks=3032599245,3528046508,536173722
 
 
+// Elsie's Rifle (god-pve,pve)
+//notes: General use, great for void builds to provide over-shields & DR tags:god-pve,pve
+dimwishlist:item=3851176026&perks=839105230,679225683,776531651,4104185692
+
+
+// Elsie's Rifle (pve)
+//notes: Better options are available for primaries, pulse rifles aren't amazing for pve currently tags:pve
+dimwishlist:item=3851176026&perks=776531651,4104185692
+
+
 // Forbearance (Adept) (god-pve,pve)
 //notes: The Roll for Forbearance tags:god-pve,pve
 dimwishlist:item=4038592169&perks=3525010810,2822142346,3797647183,598607952
@@ -967,6 +868,28 @@ dimwishlist:item=4038592169&perks=1409206216,3592538738
 dimwishlist:item=4038592169&perks=1409206216,2675361166
 dimwishlist:item=4038592169&perks=1409206216,4049631843
 dimwishlist:item=4038592169&perks=1409206216,859780267
+
+
+// The Mountaintop (god-pve,pve)
+//notes: This is a perfect roll for if you want to treat your mountaintop as a primary weapon where you shoot into a group of ads for a kill to proc ambitious and also proc One For All for damage boost. tags:god-pve,pve
+dimwishlist:item=4043921923&perks=981914802,3301904089,2010801679,4049631843
+dimwishlist:item=4043921923&perks=981914802,3492396210,2010801679,4049631843
+
+
+// The Mountaintop (god-pve,pve)
+//notes: This is a perfect roll for dealing a huge chunk of damage to champs and other high-health enemies. You will want to build of recombination and by the time you have it ready auto-loading should have it loaded tags:god-pve,pve
+dimwishlist:item=4043921923&perks=981914802,3301904089,3300816228,469285294
+dimwishlist:item=4043921923&perks=981914802,3492396210,3300816228,469285294
+
+
+// The Mountaintop (pve)
+//notes: Roll for using Mountain Top as more of an ad-clear weapon where you proc ambitious for 2 rounds in the mag and One For All for damage. Aim to get hard launch and Spike/Implosion for perfect roll. tags:pve
+dimwishlist:item=4043921923&perks=2010801679,4049631843
+
+
+// The Mountaintop (pve)
+//notes: Roll for taking a chunk out of Champs and other high-health enemies. Build up recombination then chunk them down while switching back to primary or heavy, auto-loading will have it ready for you the next time you need it. tags:pve
+dimwishlist:item=4043921923&perks=3300816228,469285294
 
 
 // Explosive Personality (pve,god-pve)
