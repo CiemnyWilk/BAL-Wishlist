@@ -2944,6 +2944,99 @@
             "tags": [
                 "PVE"
             ]
+        },
+        {
+            "description": "Slice can very easily debuff enemies with only a class ability usage and can pair very well with the likes of chain reaction or hatchling.",
+            "hash": 1218113510,
+            "name": "",
+            "plugs": [
+                [
+                    3525010810,
+                    3798852852
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    923806249,
+                    3422796781
+                ],
+                [
+                    2396489472,
+                    831391274,
+                    598607952,
+                    102912326
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Slave can apple a very easy debuff and Pairs well with Chain Reaction and Hatchling",
+            "hash": 1218113510,
+            "name": "",
+            "plugs": [
+                [
+                    3422796781,
+                    923806249
+                ],
+                [
+                    598607952,
+                    102912326,
+                    2396489472,
+                    831391274
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Slideways and Enlightened Action can help you spam this GL more to use for more add clear.",
+            "hash": 1218113510,
+            "name": "",
+            "plugs": [
+                [
+                    3828510309,
+                    2039302152,
+                    2396422520,
+                    1771736209
+                ],
+                [
+                    831391274,
+                    2396489472,
+                    598607952,
+                    102912326
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Slideways and Enlightened Action can help you spam this GL more to use for more add clear.",
+            "hash": 1218113510,
+            "name": "",
+            "plugs": [
+                [
+                    3828510309,
+                    2039302152,
+                    1771736209,
+                    2396422520
+                ],
+                [
+                    598607952,
+                    102912326,
+                    2396489472,
+                    831391274
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
         }
     ]
 }
