@@ -3037,6 +3037,318 @@
             "tags": [
                 "PVE"
             ]
+        },
+        {
+            "description": "Not the best pulse in the slot but if you  have a good roll I wouldn't throw it away",
+            "hash": 435821041,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774,
+                    839105230
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    247725512,
+                    923806249,
+                    2938480696,
+                    3422796781
+                ],
+                [
+                    831391274,
+                    4104185692,
+                    102912326,
+                    3007133316
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Not the best pulse in the slot but if you  have a good roll I wouldn't throw it away",
+            "hash": 435821041,
+            "name": "",
+            "plugs": [
+                [
+                    923806249,
+                    247725512,
+                    3422796781,
+                    2938480696
+                ],
+                [
+                    831391274,
+                    4104185692,
+                    102912326,
+                    3007133316
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "It is not the best archetype of autos and has a lot of competition when it comes to being arc but it can be good with the right perks",
+            "hash": 3483591058,
+            "name": "",
+            "plugs": [
+                [
+                    3250034553
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    2848615171,
+                    3418782618,
+                    169755979,
+                    1563455254
+                ],
+                [
+                    2173046394,
+                    1720528630,
+                    4104185692,
+                    3007133316
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "It is not the best archetype of autos and has a lot of competition when it comes to being arc but it can be good with the right perks",
+            "hash": 3483591058,
+            "name": "",
+            "plugs": [
+                [
+                    3418782618,
+                    2848615171,
+                    169755979,
+                    1563455254
+                ],
+                [
+                    2173046394,
+                    4104185692,
+                    1720528630,
+                    3007133316
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Shotgun is good for void build or melee build but there are better options for your special slot",
+            "hash": 4097972038,
+            "name": "",
+            "plugs": [
+                [
+                    4090651448,
+                    1300023272
+                ],
+                [
+                    791862061
+                ],
+                [
+                    776531651,
+                    3161816588,
+                    4071163871,
+                    2541826827,
+                    191144788,
+                    494941759
+                ],
+                [
+                    2459015849,
+                    2360754333,
+                    2679249093,
+                    788178929,
+                    1926441324,
+                    2048641572
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Shotgun is good for void build or melee build but there are better options for your special slot",
+            "hash": 4097972038,
+            "name": "",
+            "plugs": [
+                [
+                    776531651,
+                    3161816588,
+                    4071163871,
+                    2541826827,
+                    191144788,
+                    494941759
+                ],
+                [
+                    2459015849,
+                    2360754333,
+                    788178929,
+                    2679249093,
+                    2048641572,
+                    1926441324
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "There are better options for SMGs but if you need a Kinetic SMG this is a great option",
+            "hash": 1013434963,
+            "name": "",
+            "plugs": [
+                [
+                    3250034553
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    1820235745,
+                    4245865861,
+                    2779035018,
+                    1171147302
+                ],
+                [
+                    3891536761,
+                    1549370717,
+                    95528736,
+                    956288240
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "There are better options for SMGs but if you need a Kinetic SMG this is a great option",
+            "hash": 1013434963,
+            "name": "",
+            "plugs": [
+                [
+                    1428297954,
+                    2014892510,
+                    1820235745,
+                    4245865861
+                ],
+                [
+                    3891536761,
+                    1549370717,
+                    95528736,
+                    956288240
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Good if you need a headstone hand cannon for a build",
+            "hash": 2969415423,
+            "name": "",
+            "plugs": [
+                [
+                    1926090094
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    124408337,
+                    1171887445,
+                    3523296417,
+                    1906147653
+                ],
+                [
+                    1954620775,
+                    1562897767,
+                    11612903,
+                    2422968039
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Good if you need a headstone hand cannon for a build",
+            "hash": 2969415423,
+            "name": "",
+            "plugs": [
+                [
+                    124408337,
+                    1171887445,
+                    3523296417,
+                    1906147653
+                ],
+                [
+                    11612903,
+                    2422968039,
+                    1954620775,
+                    1562897767
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "A solar weapon with Heal Clip and Incandescent",
+            "hash": 435821040,
+            "name": "",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    4223976499,
+                    3017780555
+                ],
+                [
+                    4293542123,
+                    2675184851,
+                    2923251173,
+                    1015611457
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "A solar weapon with Heal Clip and Incandescent",
+            "hash": 435821040,
+            "name": "",
+            "plugs": [
+                [
+                    4223976499,
+                    3017780555
+                ],
+                [
+                    4293542123,
+                    2675184851,
+                    2923251173,
+                    1015611457
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
         }
     ]
 }
