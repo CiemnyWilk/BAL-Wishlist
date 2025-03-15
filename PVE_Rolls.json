@@ -4662,6 +4662,543 @@
             "tags": [
                 "PVE"
             ]
+        },
+        {
+            "description": "WILK: Just a worse Imminence so not much to say. Has a lot going for it for a melee build but otherwise a let down. Feel free to just dismantle unless you don't have an Imminence || GINGER: Being an adaptive frame, Mirror Imago doesn't have the movement bonus that Lightweights benefit from (Imminence from SE), and it also has a slightly different damage profile despite being the same RPM (more on body, less on criit). Mirror Imago has the upper hand with access to Runneth Over as a shiny, but it's mostly personal preference and availability between this and Imminence, it's only competition.",
+            "hash": 3234363830,
+            "name": "",
+            "plugs": [
+                [
+                    4090651448,
+                    1482024992
+                ],
+                [
+                    106909392,
+                    3142289711
+                ],
+                [
+                    3643424744,
+                    1820235745,
+                    1631667848,
+                    691659142,
+                    4245865861,
+                    536173722,
+                    2682205016,
+                    402033656
+                ],
+                [
+                    831391274,
+                    31345821,
+                    4082225868,
+                    365154968,
+                    102912326,
+                    2939589096,
+                    1161469972,
+                    639190697
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "WILK: Just a worse Imminence so not much to say. Has a lot going for it for a melee build but otherwise a let down. Feel free to just dismantle unless you don't have an Imminence || GINGER: Being an adaptive frame, Mirror Imago doesn't have the movement bonus that Lightweights benefit from (Imminence from SE), and it also has a slightly different damage profile despite being the same RPM (more on body, less on criit). Mirror Imago has the upper hand with access to Runneth Over as a shiny, but it's mostly personal preference and availability between this and Imminence, it's only competition.",
+            "hash": 3234363830,
+            "name": "",
+            "plugs": [
+                [
+                    691659142,
+                    1820235745,
+                    1631667848,
+                    3643424744,
+                    4245865861,
+                    402033656,
+                    2682205016,
+                    536173722
+                ],
+                [
+                    831391274,
+                    365154968,
+                    4082225868,
+                    31345821,
+                    102912326,
+                    2939589096,
+                    1161469972,
+                    639190697
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "WILK: Just a worse Imminence so not much to say. Has a lot going for it for a melee build but otherwise a let down. Feel free to just dismantle unless you don't have an Imminence || GINGER: Being an adaptive frame, Mirror Imago doesn't have the movement bonus that Lightweights benefit from (Imminence from SE), and it also has a slightly different damage profile despite being the same RPM (more on body, less on criit). Mirror Imago has the upper hand with access to Runneth Over as a shiny, but it's mostly personal preference and availability between this and Imminence, it's only competition.",
+            "hash": 3877448149,
+            "name": "",
+            "plugs": [
+                [
+                    4090651448,
+                    1482024992
+                ],
+                [
+                    106909392,
+                    3142289711
+                ],
+                [
+                    691659142,
+                    1820235745,
+                    1631667848,
+                    3643424744,
+                    4245865861,
+                    402033656,
+                    536173722,
+                    2682205016
+                ],
+                [
+                    831391274,
+                    365154968,
+                    4082225868,
+                    31345821,
+                    102912326,
+                    2939589096,
+                    1161469972,
+                    639190697
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "WILK: Just a worse Imminence so not much to say. Has a lot going for it for a melee build but otherwise a let down. Feel free to just dismantle unless you don't have an Imminence || GINGER: Being an adaptive frame, Mirror Imago doesn't have the movement bonus that Lightweights benefit from (Imminence from SE), and it also has a slightly different damage profile despite being the same RPM (more on body, less on criit). Mirror Imago has the upper hand with access to Runneth Over as a shiny, but it's mostly personal preference and availability between this and Imminence, it's only competition.",
+            "hash": 3877448149,
+            "name": "",
+            "plugs": [
+                [
+                    1820235745,
+                    1631667848,
+                    3643424744,
+                    691659142,
+                    4245865861,
+                    402033656,
+                    536173722,
+                    2682205016
+                ],
+                [
+                    831391274,
+                    365154968,
+                    4082225868,
+                    31345821,
+                    102912326,
+                    2939589096,
+                    1161469972,
+                    639190697
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "WILK: Just a worse Imminence so not much to say. Has a lot going for it for a melee build but otherwise a let down. Feel free to just dismantle unless you don't have an Imminence || GINGER: Being an adaptive frame, Mirror Imago doesn't have the movement bonus that Lightweights benefit from (Imminence from SE), and it also has a slightly different damage profile despite being the same RPM (more on body, less on criit). Mirror Imago has the upper hand with access to Runneth Over as a shiny, but it's mostly personal preference and availability between this and Imminence, it's only competition.",
+            "hash": 4116546788,
+            "name": "",
+            "plugs": [
+                [
+                    1482024992,
+                    4090651448
+                ],
+                [
+                    106909392,
+                    3142289711
+                ],
+                [
+                    691659142,
+                    1820235745,
+                    1631667848,
+                    3643424744,
+                    4245865861,
+                    402033656,
+                    536173722,
+                    2682205016
+                ],
+                [
+                    831391274,
+                    365154968,
+                    4082225868,
+                    31345821,
+                    102912326,
+                    2939589096,
+                    1161469972,
+                    639190697
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "WILK: Just a worse Imminence so not much to say. Has a lot going for it for a melee build but otherwise a let down. Feel free to just dismantle unless you don't have an Imminence || GINGER: Being an adaptive frame, Mirror Imago doesn't have the movement bonus that Lightweights benefit from (Imminence from SE), and it also has a slightly different damage profile despite being the same RPM (more on body, less on criit). Mirror Imago has the upper hand with access to Runneth Over as a shiny, but it's mostly personal preference and availability between this and Imminence, it's only competition.",
+            "hash": 4116546788,
+            "name": "",
+            "plugs": [
+                [
+                    691659142,
+                    1820235745,
+                    1631667848,
+                    3643424744,
+                    4245865861,
+                    402033656,
+                    2682205016,
+                    536173722
+                ],
+                [
+                    831391274,
+                    365154968,
+                    4082225868,
+                    31345821,
+                    102912326,
+                    2939589096,
+                    1161469972,
+                    639190697
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "WILK: Just a worse Imminence so not much to say. Has a lot going for it for a melee build but otherwise a let down. Feel free to just dismantle unless you don't have an Imminence || GINGER: Being an adaptive frame, Mirror Imago doesn't have the movement bonus that Lightweights benefit from (Imminence from SE), and it also has a slightly different damage profile despite being the same RPM (more on body, less on criit). Mirror Imago has the upper hand with access to Runneth Over as a shiny, but it's mostly personal preference and availability between this and Imminence, it's only competition.",
+            "hash": 302039451,
+            "name": "",
+            "plugs": [
+                [
+                    4090651448,
+                    1482024992
+                ],
+                [
+                    106909392,
+                    3142289711
+                ],
+                [
+                    1820235745,
+                    1631667848,
+                    3643424744,
+                    691659142,
+                    4245865861,
+                    402033656,
+                    536173722,
+                    2682205016
+                ],
+                [
+                    831391274,
+                    365154968,
+                    4082225868,
+                    31345821,
+                    102912326,
+                    2939589096,
+                    1161469972,
+                    639190697
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "WILK: Just a worse Imminence so not much to say. Has a lot going for it for a melee build but otherwise a let down. Feel free to just dismantle unless you don't have an Imminence || GINGER: Being an adaptive frame, Mirror Imago doesn't have the movement bonus that Lightweights benefit from (Imminence from SE), and it also has a slightly different damage profile despite being the same RPM (more on body, less on criit). Mirror Imago has the upper hand with access to Runneth Over as a shiny, but it's mostly personal preference and availability between this and Imminence, it's only competition.",
+            "hash": 302039451,
+            "name": "",
+            "plugs": [
+                [
+                    1820235745,
+                    1631667848,
+                    3643424744,
+                    691659142,
+                    4245865861,
+                    402033656,
+                    536173722,
+                    2682205016
+                ],
+                [
+                    831391274,
+                    365154968,
+                    4082225868,
+                    31345821,
+                    102912326,
+                    2939589096,
+                    1161469972,
+                    639190697
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "GINGER: Strand Glaive! Yippee! Also, it has some really interesting perks! Discord in the third column will pull ammo out of thin air for every kill you get after swapping to this after landing a kill with another weapon, and Beacon Rounds in the fourth column will give your bullets tracking after every final blow. Overall  a fun weapon, highly reccomend grabbing a copy or two.",
+            "hash": 2671849376,
+            "name": "",
+            "plugs": [
+                [
+                    2713678205,
+                    580685494
+                ],
+                [
+                    1087426260,
+                    1431678320
+                ],
+                [
+                    923806249,
+                    1966281507,
+                    3978468247,
+                    3422796781,
+                    1592669035,
+                    906981559
+                ],
+                [
+                    2224838837,
+                    1782407750,
+                    31345821,
+                    2859149211,
+                    3102670337,
+                    2241043034,
+                    1135494563,
+                    639190697
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "GINGER: Strand Glaive! Yippee! Also, it has some really interesting perks! Discord in the third column will pull ammo out of thin air for every kill you get after swapping to this after landing a kill with another weapon, and Beacon Rounds in the fourth column will give your bullets tracking after every final blow. Overall  a fun weapon, highly reccomend grabbing a copy or two.",
+            "hash": 2671849376,
+            "name": "",
+            "plugs": [
+                [
+                    1966281507,
+                    923806249,
+                    3978468247,
+                    1738338041,
+                    1592669035,
+                    906981559
+                ],
+                [
+                    31345821,
+                    2224838837,
+                    2859149211,
+                    1782407750,
+                    3102670337,
+                    639190697,
+                    2241043034,
+                    1135494563
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "GINGER: Strand Glaive! Yippee! Also, it has some really interesting perks! Discord in the third column will pull ammo out of thin air for every kill you get after swapping to this after landing a kill with another weapon, and Beacon Rounds in the fourth column will give your bullets tracking after every final blow. Overall  a fun weapon, highly reccomend grabbing a copy or two.",
+            "hash": 3269398063,
+            "name": "",
+            "plugs": [
+                [
+                    2713678205,
+                    580685494
+                ],
+                [
+                    1431678320,
+                    1087426260
+                ],
+                [
+                    923806249,
+                    3978468247,
+                    1966281507,
+                    3422796781,
+                    1592669035,
+                    906981559
+                ],
+                [
+                    31345821,
+                    2224838837,
+                    1782407750,
+                    2859149211,
+                    3102670337,
+                    639190697,
+                    2241043034,
+                    1135494563
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "GINGER: Strand Glaive! Yippee! Also, it has some really interesting perks! Discord in the third column will pull ammo out of thin air for every kill you get after swapping to this after landing a kill with another weapon, and Beacon Rounds in the fourth column will give your bullets tracking after every final blow. Overall  a fun weapon, highly reccomend grabbing a copy or two.",
+            "hash": 3269398063,
+            "name": "",
+            "plugs": [
+                [
+                    923806249,
+                    1966281507,
+                    3978468247,
+                    3422796781,
+                    1592669035,
+                    906981559
+                ],
+                [
+                    31345821,
+                    2224838837,
+                    1782407750,
+                    2859149211,
+                    3102670337,
+                    3418165135,
+                    639190697,
+                    2241043034,
+                    1135494563
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "GINGER: Strand Glaive! Yippee! Also, it has some really interesting perks! Discord in the third column will pull ammo out of thin air for every kill you get after swapping to this after landing a kill with another weapon, and Beacon Rounds in the fourth column will give your bullets tracking after every final blow. Overall  a fun weapon, highly reccomend grabbing a copy or two.",
+            "hash": 2755584425,
+            "name": "",
+            "plugs": [
+                [
+                    2713678205,
+                    580685494
+                ],
+                [
+                    1087426260,
+                    1431678320
+                ],
+                [
+                    1966281507,
+                    923806249,
+                    3978468247,
+                    3422796781,
+                    1592669035,
+                    906981559
+                ],
+                [
+                    31345821,
+                    2224838837,
+                    1782407750,
+                    2859149211,
+                    3102670337,
+                    639190697,
+                    2241043034,
+                    1135494563
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "GINGER: Strand Glaive! Yippee! Also, it has some really interesting perks! Discord in the third column will pull ammo out of thin air for every kill you get after swapping to this after landing a kill with another weapon, and Beacon Rounds in the fourth column will give your bullets tracking after every final blow. Overall  a fun weapon, highly reccomend grabbing a copy or two.",
+            "hash": 2755584425,
+            "name": "",
+            "plugs": [
+                [
+                    923806249,
+                    1966281507,
+                    3978468247,
+                    3422796781,
+                    1592669035,
+                    906981559
+                ],
+                [
+                    31345821,
+                    2224838837,
+                    1782407750,
+                    2859149211,
+                    3102670337,
+                    639190697,
+                    2241043034,
+                    1135494563
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "GINGER: Strand Glaive! Yippee! Also, it has some really interesting perks! Discord in the third column will pull ammo out of thin air for every kill you get after swapping to this after landing a kill with another weapon, and Beacon Rounds in the fourth column will give your bullets tracking after every final blow. Overall  a fun weapon, highly reccomend grabbing a copy or two.",
+            "hash": 25228802,
+            "name": "",
+            "plugs": [
+                [
+                    580685494,
+                    2713678205
+                ],
+                [
+                    1431678320,
+                    1087426260
+                ],
+                [
+                    1966281507,
+                    3978468247,
+                    923806249,
+                    3422796781,
+                    1592669035,
+                    906981559
+                ],
+                [
+                    31345821,
+                    2224838837,
+                    1782407750,
+                    2859149211,
+                    3102670337,
+                    639190697,
+                    2241043034,
+                    1135494563
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "GINGER: Strand Glaive! Yippee! Also, it has some really interesting perks! Discord in the third column will pull ammo out of thin air for every kill you get after swapping to this after landing a kill with another weapon, and Beacon Rounds in the fourth column will give your bullets tracking after every final blow. Overall  a fun weapon, highly reccomend grabbing a copy or two.",
+            "hash": 25228802,
+            "name": "",
+            "plugs": [
+                [
+                    1966281507,
+                    923806249,
+                    3978468247,
+                    3422796781,
+                    1592669035,
+                    906981559
+                ],
+                [
+                    31345821,
+                    2224838837,
+                    1782407750,
+                    2859149211,
+                    3102670337,
+                    639190697,
+                    2241043034,
+                    1135494563
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
         }
     ]
 }
